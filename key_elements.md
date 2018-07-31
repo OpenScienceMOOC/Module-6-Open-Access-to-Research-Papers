@@ -50,7 +50,7 @@
 
 * [Unpaywall](https://oadoi.org/), [Open Access Button](https://openaccessbutton.org/).
 
-* [APCDOI](https://github.com/ryregier/APCDOI), a program for determining how many DOIs are ‘gold’ or ‘hybrid’ Open Access and how much was spent on the article processing charge (APC) for these (Ryan Regier).
+* [APCDOI](https://github.com/ryregier/APCDOI), a program for determining how many DOIs are gold or hybrid Open Access and how much was spent on the article processing charge (APC) for these (Ryan Regier).
 
 * [Open Science Framework](https://osf.io/preprints/) preprints and [PrePubMed](http://www.prepubmed.org/). Other repositories including:
 
@@ -79,6 +79,8 @@
     * [Frenxiv](https://frenxiv.org/).
 
     * [INA-Rxiv](https://osf.io/preprints/inarxiv/).
+    
+    * See also the [Global Scholarly Publishing sources list](https://docs.google.com/document/d/1ilW5ggwq4G5po_uCMFaBt3exFnrI5oDvf-5UGuHhXGg/edit#heading=h.4is6uhw52jgp).
 
 * [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php) - Publisher Copyright Policies and Self-Archiving.
 
@@ -162,6 +164,8 @@
 
 * [Research: Sci-Hub provides access to nearly all scholarly literature](https://elifesciences.org/articles/32822) (Himmelstein et al., 2018).
 
+* [Cultural, ideological and practical barriers to open access adoption within the UK Academy: an ethnographically framed examination](https://insights.uksg.org/articles/10.1629/uksg.400/) (Johnson, 2018).
+
 * [Converting the Literature of a Scientific Field to Open Access Through Global Collaboration: the Experience of SCOAP3 in Particle Physics](https://www.preprints.org/manuscript/201802.0149/v1) (Kohls and Mele, 2018).
 
 * [Open Access Initiatives and Networking in the Global South](https://zenodo.org/record/1176573#.Wpf28WrwaM_) (Kuchma, 2018).
@@ -169,6 +173,8 @@
 * [The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles](https://peerj.com/articles/4375/) (Piwowar et al., 2018).
 
 * [Authorial and institutional stratification in open access publishing: the case of global health research](https://peerj.com/articles/4269/) (Siler et al., 2018).
+
+* [The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints](https://osf.io/preprints/bitss/796tu/) (Tennant et al., 2018).
 
 **Key posts**
 
@@ -215,6 +221,8 @@
     * The [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/).
 
 * [HRCAK](https://hrcak.srce.hr/?lang=en) Repository of the Croatian OA journals.
+
+* [COPE preprints discussion document](https://publicationethics.org/files/COPE_DD_A4_Preprints_Mar18_AW.pdf).
 
 ### Tasks:
 
