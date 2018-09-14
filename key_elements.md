@@ -130,17 +130,17 @@
 
 * [The Development of Open Access Journal Publishing from 1993 to 2009](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020961) (Laakso et al., 2011).
 
-* [A Study of Open Access Journals Using Article Processing Charges](http://www.openaccesspublishing.org/apc2/preprint.pdf) (Solomon and Björk, 2012).
+* [A Study of Open Access Journals Using Article Processing Charges](http://www.openaccesspublishing.org/apc2/preprint.pdf) (Solomon and Bjork, 2012).
 
 * [Open Access (the book)](https://cyber.harvard.edu/hoap/Open_Access_(the_book)) (Suber, 2012).
 
-* [Anatomy of Green Open Access](http://www.openaccesspublishing.org/apc8/Personal%20VersionGreenOa.pdf) (Björk et al., 2013).
+* [Anatomy of Green Open Access](http://www.openaccesspublishing.org/apc8/Personal%20VersionGreenOa.pdf) (Bjork et al., 2013).
 
 * [The case for open preprints in biology](http://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001563) (Desjardins-Proulx et al., 2013).
 
 * [arXiv e-prints and the journal of record: An analysis of roles and relationships](https://arxiv.org/abs/1306.3261) (Larivière et al., 2013)
 
-* [Proportion of Open Access Papers Published in Peer-Reviewed Journals at the European and World Levels—1996–2013](http://science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf) (European Commission, 2014).
+* [Proportion of Open Access Papers Published in Peer-Reviewed Journals at the European and World Levels 1996-2013](http://science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf) (European Commission, 2014).
 
 * [Disrupting the subscription journals’ business model for the necessary large-scale transformation to open access](http://pubman.mpdl.mpg.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:2148961) (Schimmer et al., 2015).
 
@@ -170,11 +170,14 @@
 
 * [Open Access Initiatives and Networking in the Global South](https://zenodo.org/record/1176573#.Wpf28WrwaM_) (Kuchma, 2018).
 
+* [Open access monitoring and business model in Latin America and Middle East: a comparative study based on DOAJ data and criteria](http://library.ifla.org/2126/) (Lujano and Khalifa, 2018).
+
 * [The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles](https://peerj.com/articles/4375/) (Piwowar et al., 2018).
 
 * [Authorial and institutional stratification in open access publishing: the case of global health research](https://peerj.com/articles/4269/) (Siler et al., 2018).
 
 * [The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints](https://osf.io/preprints/bitss/796tu/) (Tennant et al., 2018).
+
 
 **Key posts**
 
@@ -189,6 +192,8 @@
 * [DOAJ APC information as of Jan 31, 2018](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/), Heather Morrison.
 
 * [Open access policies and mandates around the globe](https://www.editage.com/insights/open-access-policies-and-mandates-around-the-globe?utm_source=twitter&utm_medium=referral&utm_campaign=OpenAccessWeek), Jayashree Rajagopalan.
+
+* [Getting Scientists Ready for Open Access: The Approaches of Forschungszentrum Julich](http://www.mdpi.com/2304-6775/6/2/24/htm), Thomas Arndt and Claudia Frick.
 
 **Other**
 
