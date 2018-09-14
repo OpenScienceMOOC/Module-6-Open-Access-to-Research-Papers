@@ -195,6 +195,8 @@
 
 * [Getting Scientists Ready for Open Access: The Approaches of Forschungszentrum Julich](http://www.mdpi.com/2304-6775/6/2/24/htm), Thomas Arndt and Claudia Frick.
 
+* [Plan S and cOALition S](https://www.scienceeurope.org/coalition-s/).
+
 **Other**
 
 * [OpenDOAR](http://www.opendoar.org/) (Directory of Open Access Repositories) and the [Registry of Open Access Repository Mandates and Policies](http://roarmap.eprints.org/) (ROARMAP).
