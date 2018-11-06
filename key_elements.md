@@ -62,7 +62,7 @@
 
     * [Cogprints](http://www.cogprints.org/) (Psychology, Neuroscience and Linguistics).
     
-    * [ZeroDivZero] (https://zerodivzero.com) (Open conference paper platform for math, science, and engineering conferences).
+* [ZeroDivZero](https://zerodivzero.com) Open conference paper platform for math, science, and engineering conferences.
 
 * [CORE](https://core.ac.uk/), an aggregator of 125 million Open Access articles.
 
