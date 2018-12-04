@@ -18,6 +18,8 @@ Making scholarly research outputs openly available is easy, legal, and has demon
 ## Development team
 TBC
 
+[Note that Tobias Steiner drafted the quiz here]
+
 ## Key documents <a name="Key documents"></a>
 
 - [Contributing](CONTRIBUTING.md)
