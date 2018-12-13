@@ -32,9 +32,9 @@
 
 ### Who to involve:
 
-* Individuals: Lauren Collister, Martin Paul Eve, Chris Chambers, Jessica Polka, Mark Patterson, Pablo Dorta-González, Ahmed Ogunlaja, Ricardo Hartley, Dasapta Erwin Irawan, Bjoern Brembs, Erin McKiernan, Anna Sharman.
+* Individuals: Lauren Collister, Martin Paul Eve, Chris Chambers, Jessica Polka, Mark Patterson, Pablo Dorta-González, Ahmed Ogunlaja, Ricardo Hartley, Dasapta Erwin Irawan, Bjoern Brembs, Erin McKiernan, Anna Sharman, Naomi Penfold, Juan Pablo Alperin, Barbara Rivera, Roshan Karn.
 
-* Organisations: [DOAJ,](https://doaj.org/) [SPARC](https://sparcopen.org), [Open Library of Humanities](https://www.openlibhums.org/), [ASAPbio](http://asapbio.org/), Open Access advocacy groups, including local initiatives on the country and institute level.
+* Organisations: [DOAJ,](https://doaj.org/), [Open Library of Humanities](https://www.openlibhums.org/), [ASAPbio](http://asapbio.org/), Open Access advocacy groups, including local initiatives on the country and institute level.
 
 * Other: SHERPA/RoMEO, [Open Access Directory](http://oad.simmons.edu/oadwiki/Main_Page).
 
