@@ -164,6 +164,8 @@
 
 * [Open Access and OER in Latin America: A survey of the policy landscape in Chile, Colombia and Uruguay](https://zenodo.org/record/1094840#.WoAX4SXwaM9) (Toledo, 2017).
 
+* [Africa's contribution to the global open access literature](http://www.suaire.sua.ac.tz:8080/xmlui/handle/123456789/2656) (Chirwa and Sife, 2018).
+
 * [Research: Sci-Hub provides access to nearly all scholarly literature](https://elifesciences.org/articles/32822) (Himmelstein et al., 2018).
 
 * [Cultural, ideological and practical barriers to open access adoption within the UK Academy: an ethnographically framed examination](https://insights.uksg.org/articles/10.1629/uksg.400/) (Johnson, 2018).
@@ -176,18 +178,28 @@
 
 * [The State of OA: A large-scale analysis of the prevalence and impact of Open Access articles](https://peerj.com/articles/4375/) (Piwowar et al., 2018).
 
+* [On the value of preprints: an early career researcher perspective](https://peerj.com/preprints/27400/) [Sarabipour et al., 2018].
+
+* [Discipline-specific open access publishing practices and barriers to change: an evidence-based review](https://f1000research.com/articles/7-1925/v1) (Severin et al., 2018).
+
 * [Authorial and institutional stratification in open access publishing: the case of global health research](https://peerj.com/articles/4269/) (Siler et al., 2018).
 
 * [The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints](https://osf.io/preprints/bitss/796tu/) (Tennant et al., 2018).
+
+* [Who is pirating medical literature? A bibliometric review of 28 million Sci-Hub downloads](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30388-7/fulltext) (Till et al., 2018).
 
 
 **Key posts**
 
 * [Good practices for university open-access policies](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies), Harvard University, 2017.
 
+* [Why CC-BY?](https://oaspa.org/why-cc-by/), OASPA.
+
 * [Open Access Policy concerning UNESCO publications](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf), UNESCO.
 
 * [A genealogy of open access: negotiations between openness and access to research](http://journals.openedition.org/rfsic/3220), Samuel Moore.
+
+* [Annoucing Direct2AAM: Helping authors find author accepted manuscripts](https://blog.openaccessbutton.org/announcing-direct2aam-helping-authors-find-author-accepted-manuscripts-f71462a68d1a), Open Access Button.
 
 * [Open access and development: Research findings](http://blogs.worldbank.org/voices/open-order-end-extreme-poverty-open-access-and-development-research-findings), Elisa Liberatori Prati.
 
@@ -198,6 +210,8 @@
 * [Getting Scientists Ready for Open Access: The Approaches of Forschungszentrum Julich](http://www.mdpi.com/2304-6775/6/2/24/htm), Thomas Arndt and Claudia Frick.
 
 * [Plan S and cOALition S](https://www.scienceeurope.org/coalition-s/).
+
+* [Sharing new educational resources on open licensing for preprints](http://asapbio.org/new-licensing-resources), Jessic Polka, Donna Okubo, Tim Vollmer.
 
 **Other**
 
