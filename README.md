@@ -16,7 +16,8 @@ Making scholarly research outputs openly available is easy, legal, and has demon
 1. Researchers will be able to use services like ImpactStory to track the proportion of their research that is Open Access.
 
 ## Development team
-TBC
+* Charlotte Weber (?)
+* Jon Tennant
 
 [Note that Tobias Steiner drafted the quiz here]
 
