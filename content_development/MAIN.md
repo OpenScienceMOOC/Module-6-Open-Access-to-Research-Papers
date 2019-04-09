@@ -16,9 +16,6 @@ output:
   -  [](#)
 - [Production Team](#team)
 
-
-
-
 ## Introduction <a name="introduction"></a>
 
 

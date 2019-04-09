@@ -91,6 +91,6 @@
 - [ ] True
 - [X] False
 
-**Answer:** While many journals do charge high costs to publish Open Access, they almost always allow some sort of free self-archiving of the accepted, peer review manuscripts. This is often termed 'green Open Access', and varies depending on publisher or journal. According to the Directory of Open Access Journals, there is also a huge variety of journals that are Open Access and do now charge authors to publish  ´- around 12,000 journals! There is almost always a free ot low cost option for authors that does not compromise your choice of venue to publish in.
+**Answer:** While many journals do charge high costs to publish Open Access, they almost always allow some sort of free self-archiving of the accepted, peer review manuscripts. This is often termed 'green Open Access', and varies depending on publisher or journal. According to the Directory of Open Access Journals, there is also a huge variety of journals that are Open Access and do now charge authors to publish  ´- around 12,000 journals! There is almost always a free ot low cost option for authors that does not compromise your choice of venue to publish in. They key point is that there is not a single business model for Open Access.
 
 ---------------------
