@@ -31,8 +31,8 @@
 * Personal academic impact and advantages of Open Access (e.g., increased citation counts, visibility, readership)
   - Erin McKiernan
 
-* Global, national, funder, and institutional policies and mandates
-  - Someone from AmelicA?
+* Painting a global picture: national, funder, and institutional policies and mandates
+  - Someone from AmelicA? Abel Packer (SciELO)
 
 * Differences between pre-prints, post-prints, and versions of record (VOR)
   - Jessica Polka / Naomi Penfold
