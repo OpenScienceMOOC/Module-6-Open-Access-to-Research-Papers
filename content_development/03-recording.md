@@ -1,10 +1,14 @@
-# Module 5: Recording and editing
+# Module 5: Recording and editin
 
    1. Record either on location, online, or within studio 
    2. Preference to non-'floating head' styles 
    3. Edit all audio/visual material 
+
+Note that the idea for this module is to have one larger introductory video in the introduction, as with the other modules, but then also shorter snippets for each module subsection.
    
 ## Confirmed participants:
+
+* Abel Packer, SciELO
 
 ## Script
 

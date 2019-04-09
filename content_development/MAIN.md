@@ -12,6 +12,9 @@ output:
 ## Table of Contents
 
 - [Introduction](#introduction)
+  - [Who is this module for?](#who_for)
+  -  [](#)
+- [Production Team](#team)
 
 
 
@@ -22,6 +25,14 @@ output:
 <br/>
 
 ### Who is this module for? <a name="who_for"></a>
+
+
+
+## Production team
+
+* Charlotte Theresa-Weber, XXXX, XXXXX
+* Jon Tennant, IGDORE, Dinosaur nerd
+* Tobias Steiner, XXXX, Open Ed Wizard and master of beards
 
 
 
