@@ -13,7 +13,18 @@ output:
 
 - [Introduction](#introduction)
   - [Who is this module for?](#who_for)
-  -  [](#)
+- [What is Open Access](#open_access)
+- [What are the different types of Open Access](#types)
+- [Why is Open Access important](#important)
+- [How does Open Access impact you](#impact)
+- [Painting a global picture of Open Access](#global)
+- [Preprints, postprints, and VORs](#preprints)
+- [The cost and economics if Open Access](#economics)
+- [Institutional and subject repositories](#repositories)
+- [Scholarly collaboration platforms](#platforms)
+- [Open Access monographs and books](#monographs)
+- [Pre-registration](#preregistration)
+- [Open Access and discoverability](#discoverability)
 - [Production Team](#team)
 
 ## Introduction <a name="introduction"></a>
@@ -23,15 +34,63 @@ output:
 
 ### Who is this module for? <a name="who_for"></a>
 
+<br/>
 
+## What is Open Access <a name="open_access"></a>
 
-## Production team
+<br/>
+
+## What are the different types of Open Access <a name="types"></a>
+
+<br/>
+
+## Why is Open Access important <a name="important"></a>
+
+<br/>
+
+## How does Open Access impact you <a name="impact"></a>
+
+<br/>
+
+## Painting a global picture of Open Access <a name="global"></a>
+
+<br/>
+
+## Preprints, postprints, and VORs <a name="preprints"></a>
+
+<br/>
+
+## The cost and economics of Open Access <a name="economics"></a>
+
+<br/>
+
+## Institutional and subject repositories <a name="repositories"></a>
+
+<br/>
+
+## Scholarly collaboration platforms <a name="platforms"></a>
+
+<br/>
+
+## Open Access monographs and books <a name="monographs"></a>
+
+<br/>
+
+## Pre-registration <a name="preregistration"></a>
+
+<br/>
+
+## Open Access and discoverability <a name="discoverability"></a>
+
+<br/>
+
+## Production team <a name="team"></a>
 
 * Charlotte Theresa-Weber, XXXX, XXXXX
 * Jon Tennant, IGDORE, Dinosaur nerd
 * Tobias Steiner, XXXX, Open Ed Wizard and master of beards
 
-
+<br/>
 
 **Know a way this content can be improved?**
 

@@ -95,4 +95,16 @@
 
 You can investigate the self-archiving policies for more than 2,500 publishers [here](http://sherpa.mimas.ac.uk/romeo/statistics.php?la=en&fIDnum=|&mode=simple).
 
+### 12. Identify which of these helps you to maximise audience reach and impact?
+
+- [ ] Paywalls
+- [ ] Open Access
+- [ ] Speaking at conferences
+- [ ] Keeping all of your research on your harddrive
+- [ ] Using social media
+- [ ] Using services such as GrowKudos or ScienceOpen
+- [ ] Blogging about your research or helping to draft a press release
+
+
+
 ---------------------
