@@ -35,19 +35,19 @@
   - Someone from AmelicA? Abel Packer (SciELO)
 
 * Differences between pre-prints, post-prints, and versions of record (VOR)
-  - Jessica Polka / Naomi Penfold
+  - Jessica Polka / Naomi Penfold / Richard Sever
 
 * The cost and economics of Open Access
-  - Maybe Glenn Hampson?
+  - Glenn Hampson
 
 * Open Access platforms
-  - Bianca Kramer
+  - Bianca Kramer and Jean-Claude Burgelman
 
 * Institutional and subject repositories
   - Rachael Ainsworth
 
 * Scholarly Collaboration Networks (e.g., ResearchGate, Academia.edu, OSF)
-  - Brian Nosek?
+  - Brian Nosek
 
 * Open Access monographs and books
   - Caroline Edwards and Martin Eve
