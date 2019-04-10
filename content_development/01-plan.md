@@ -26,10 +26,10 @@
   - Juan Pablo Alperin and Heather Piwowar
 
 * Why is OA important (i.e., sharing research findings with international academic and non-academic communities without paywall and other usage restrictions)
-  - Ivonne Lujano
+  - Ivonne Lujano, Anson Mackay
 
 * Personal academic impact and advantages of Open Access (e.g., increased citation counts, visibility, readership)
-  - Erin McKiernan
+  - Erin McKiernan, Chris Jackson
 
 * Painting a global picture: national, funder, and institutional policies and mandates
   - Someone from AmelicA? Abel Packer (SciELO)

@@ -105,6 +105,13 @@ You can investigate the self-archiving policies for more than 2,500 publishers [
 - [ ] Using services such as GrowKudos or ScienceOpen
 - [ ] Blogging about your research or helping to draft a press release
 
+### 13. Q: Which of the following is a true statement about Open Access? 
 
+- [ ] Open Access enables a global library 
+- [ ] Publishing as Open Access makes you part of a global community. 
+- [ ] Open Access can include publishing manuscripts as well as other digital objects (dataset, code, etc) 
+- [ ] Open Access helps others with limited access to subscriptions 
+- [ ] Open Access can change scholarship and education in ways we may not even realize yet 
+- [X] All of the above
 
 ---------------------

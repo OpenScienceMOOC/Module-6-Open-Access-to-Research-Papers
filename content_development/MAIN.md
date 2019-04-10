@@ -15,6 +15,7 @@ output:
   - [Who is this module for?](#who_for)
 - [What is Open Access](#open_access)
 - [What are the different types of Open Access](#types)
+  - [Open licensing](#licensing)
 - [Why is Open Access important](#important)
 - [How does Open Access impact you](#impact)
 - [Painting a global picture of Open Access](#global)
@@ -41,6 +42,10 @@ output:
 <br/>
 
 ## What are the different types of Open Access <a name="types"></a>
+
+<br/>
+
+### Open licensing <a name="licensing"></a>
 
 <br/>
 
