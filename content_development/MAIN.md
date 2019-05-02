@@ -91,9 +91,9 @@ output:
 
 ## Production team <a name="team"></a>
 
-* Charlotte Theresa-Weber, XXXX, XXXXX
-* Jon Tennant, IGDORE, Dinosaur nerd
-* Tobias Steiner, XXXX, Open Ed Wizard and master of beards
+* Charlotte Theresa-Weber, 
+* Jon Tennant, Dinosaur nerd
+* Tobias Steiner, Open Ed Quiz Master
 
 <br/>
 
