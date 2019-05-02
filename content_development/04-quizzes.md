@@ -1,4 +1,4 @@
-# Module 5: Quizzes and assignments
+# Module 6: Quizzes and assignments
 
 1. First draft for feedback to instructional design
 2. Follow up feedback
