@@ -19,7 +19,7 @@ Making scholarly research outputs openly available is easy, legal, and has demon
 
 * Charlotte Weber - Team Lead
 * Jon Tennant - Dinosaur whisperer, co-leader-ish
-* Tobias Steiner - Open Ed Quiz Master
+* Tobias Steiner - Open Ed Quizzard
 
 ## Key documents <a name="Key documents"></a>
 
