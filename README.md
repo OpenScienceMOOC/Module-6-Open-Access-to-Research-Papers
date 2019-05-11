@@ -21,7 +21,7 @@ Making scholarly research outputs openly available is easy, legal, and has demon
 * Jon Tennant - Dinosaur whisperer, co-leader-ish
 * Tobias Steiner - Open Ed Quizzard
 * Encarni Martínez - Wonderful Brains
-
+* Ritwik Agarwal - Open Science Activist
 ## Key documents <a name="Key documents"></a>
 
 - [Contributing](CONTRIBUTING.md)
