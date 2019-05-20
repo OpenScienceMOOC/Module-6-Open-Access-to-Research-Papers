@@ -9,11 +9,11 @@ At the present, development is in very early stages, as this is an entirely crow
 
 ## Contact us
 
-If you want to contribute, add yourself to the [contributors list](https://docs.google.com/spreadsheets/d/1FEbnxBkmIQFDEViTgZDn0AJ0MSK6eDSBEgZuCkW_B5s/edit?usp=drive_web) and join our open [Slack channel](https://openmooc-ers-slackin.herokuapp.com/).
+If you want to contribute, add yourself to the [Development Team](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers#development-team) and join our open [Slack channel](https://osmooc.herokuapp.com/).
 
 If you have questions about the project, please [email us](info@opensciencemooc.eu) directly.
 
-Stay tuned on what's happening on Twitter with [@OpenSci_MOOC](https://twitter.com/OpenSci_MOOC).
+Stay tuned on what's happening on Twitter with [@OpenScienceMOOC](https://twitter.com/OpenScienceMOOC).
 
 ## Getting started
 1. [Forming a team for collaborative design](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MODULE_DESIGN_PROTOCOL.md#forming-a-team-for-collaborative-design).
