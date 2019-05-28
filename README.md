@@ -23,6 +23,7 @@ Making scholarly research outputs openly available is easy, legal, and has demon
 * Encarni Martínez - Wonderful Brains
 * Ritwik Agarwal - Open Science Activist
 * Erzsébet Tóth-Czifra - Digital Human
+* Paola Masuzzo - Batman of Open Science
 
 
 ## Key documents <a name="Key documents"></a>
