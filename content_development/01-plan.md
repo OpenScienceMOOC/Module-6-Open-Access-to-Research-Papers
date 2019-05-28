@@ -35,7 +35,7 @@
   - Someone from AmelicA? Abel Packer (SciELO)
 
 * Differences between pre-prints, post-prints, and versions of record (VOR)
-  - Jessica Polka / Naomi Penfold / Richard Sever
+  - Jessica Polka / Naomi Penfold / Richard Sever / Martyn Rittman
 
 * The cost and economics of Open Access
   - Glenn Hampson
