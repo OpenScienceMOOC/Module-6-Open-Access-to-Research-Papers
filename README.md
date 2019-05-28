@@ -22,6 +22,9 @@ Making scholarly research outputs openly available is easy, legal, and has demon
 * Tobias Steiner - Open Ed Quizzard
 * Encarni Martínez - Wonderful Brains
 * Ritwik Agarwal - Open Science Activist
+* Erzsébet Tóth-Czifra - Digital Human
+
+
 ## Key documents <a name="Key documents"></a>
 
 - [Contributing](CONTRIBUTING.md)

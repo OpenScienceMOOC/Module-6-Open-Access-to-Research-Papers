@@ -91,14 +91,17 @@ output:
 
 ## Production team <a name="team"></a>
 
-* Charlotte Theresa-Weber, 
-* Jon Tennant, Dinosaur nerd
-* Tobias Steiner, Open Ed Quiz Master
+* Charlotte Weber - Team Lead
+* Jon Tennant - Dinosaur whisperer, co-leader-ish
+* Tobias Steiner - Open Ed Quizzard
+* Encarni Martínez - Wonderful Brains
+* Ritwik Agarwal - Open Science Activist
+* Erzsébet Tóth-Czifra - Digital Human
 
 <br/>
 
 **Know a way this content can be improved?**
 
-Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-1-Open-Principles/blob/master/content_development/MAIN.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
+Time to take your new GitHub skills for a test-run! All content development primarily happens [here](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/content_development/MAIN.md). If you have a suggested improvement to the content, layout, or anything else, you can make it and then it will automatically become part of the MOOC content after verification from a moderator!
 
 [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
