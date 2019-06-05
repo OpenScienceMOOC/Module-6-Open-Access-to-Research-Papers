@@ -24,9 +24,15 @@ For notedown:
 
 ### In iPython notebook format
 
+- TBC
+
 ### In PDF format
 
+- TBC
+
 ### In HTML format
+
+- TBC
 
 ## Production files
 

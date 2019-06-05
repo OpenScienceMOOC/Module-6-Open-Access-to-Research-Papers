@@ -2,7 +2,7 @@
 
 ## Rationale <a name="Rationale"></a>
 
-Making scholarly research outputs openly available is easy, legal, and has demonstrable benefits to authors, making it a good beginning step for a researcher just beginning to explore the open world. There is a set of knowledge required to navigate the Open Access landscape, involving copyright, article status, repositories, and economics. This module will introduce key concepts and tools that can help a researcher make their work openly available and maximize the benefits to themselves and others.
+Making scholarly research outputs openly available to everyone is simple, legal, and has demonstrable benefits to authors, making it a good beginning step for a researcher just beginning to explore the open world. There is a set of knowledge required to navigate the Open Access landscape, involving copyright, article status, repositories, and economics. This module will introduce key concepts and tools that can help a researcher make their work openly available and maximize the benefits to themselves and others.
 
 
 ## Learning outcomes <a name="Learning outcomes"></a>

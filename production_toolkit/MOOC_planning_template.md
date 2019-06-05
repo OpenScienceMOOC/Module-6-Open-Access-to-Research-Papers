@@ -39,17 +39,17 @@ Red: Launch date in danger
 |  ------------------  |  ------------  | -----------------  |  ------------ | -------------  |
 | **Initiate and plan**  |               |            |                 |                    |
 |  Kick off             |  Yep        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/10 | Sprint success! |
-|  Define target group      |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2018/05/31 |  |
-|  Refine learning objectives/outcomes             |  Nope      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2018/05/31 |  |
-|  Design course outline              |  Nope      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)     |  2018/05/31 |  |
-|  Design project plan and timeline             |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | |
-|  Identify promotion channels             |  Nope        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2018/05/31 | |
+|  Define target group      |  Yes        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2019/05/31 | Completed 1st week of CRI |
+|  Refine learning objectives/outcomes       |  Yes      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)    |  2019/05/31 | Completed 1st week of CRI |
+|  Design course outline              |  Yes      |  ![Green](https://img.shields.io/badge/Status-text-green.svg)     |  2019/05/31 | Completed 1st week of CRI |
+|  Design project plan and timeline             |  Yes        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2019/05/31 | Completed 1st week of CRI |
+|  Identify promotion channels             |  Yes        |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2019/05/31 | Completed 1st week of CRI |
 | **Design and scripting**  |          |             |                 |                    |
-|  Identify key resources |     |    |   | |
-|  Design learner activities   |    |    |   | |
-|  Find existing key resources  |     |    |   | |
-|  Write audio/video scripts   |    |    |   | |
-|  Review all learning resources  |     |    |   | |
+|  Identify key resources |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2019/06/05  | |
+|  Design learner activities   |  Pending  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | |
+|  Find existing key resources  | Yes    |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2019/06/05  | |
+|  Write audio/video scripts   |  Pending  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | |
+|  Review all learning resources  |   Pending  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | |
 |  Finalise all scripts   |     |    |   | |
 |  Copyright strategy  |     |    |   | |
 | **Recording and editing**  |                   |           |                 |                    |
@@ -65,17 +65,17 @@ Red: Launch date in danger
 |  Cross-review and check content  |     |    |   | |
 |  Final checks from Steering Committee  |     |    |   | |
 | **Implementation**  |           |           |                 |              |
-|  Agreement on platform  |     |    |   | |
-|  Module logo designed  |     |    |   | |
-|  Module description and introduction  |     |    |   | |
-|  Team member and guest lecturer agreements  |     |    |   | |
+|  Agreement on platform  |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   | 2019/06/05  | |
+|  Module logo designed  |   Yes  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)   |  2019/06/05 | |
+|  Module description and introduction  |  Pending   |    |   | |
+|  Team member and guest lecturer agreements  |   Pending  |    |   | |
 |  Team member and guest lecturer profiles  |     |    |   | |
-|  Course readings acquired  |     |    |   | |
+|  Course readings acquired  |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2019/06/05  | |
 |  Port content to selected platform  |     |    |   | |
 |  All content deposited in the Open Science Framework |     |    |   | |
 | **Promotion**  |           |           |                 |              |
 |  Content and communication calendar/strategy/timeline  |     |    |   | |
-|  Identify relevant channels (mailing lists, social media and hashtags, organisations, individuals, websites, conferences)  |     |    |   | |
+|  Identify relevant channels (mailing lists, social media and hashtags, organisations, individuals, websites, conferences)  |  Pending   |    |   | |
 |  Images for use in social media  |     |    |   | |
 |  Course title marketing check |     |    |   | |
 | **Launch**  |           |           |                 |              |

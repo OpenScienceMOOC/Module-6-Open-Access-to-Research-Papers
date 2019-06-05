@@ -87,6 +87,12 @@
     * [Discrete Analysis](http://discreteanalysisjournal.com/).
 
     * [biOverlay](https://www.bioverlay.org/post/welcome/).
+    
+* The [Open Science Knowledge Base](https://how-to-open.science/).
+
+* [Open Access: Background and Tools for Early Career Researchers in Social Sciences](https://github.com/jolyphil/oa-workshop).
+
+* [Module 3: Publishing Open Access](https://ocw.tudelft.nl/courses/open-science-sharing-research-world/subjects/module-3-publishing-open-access/), TU Delft.
 
 **Research Articles and Reports**
 
@@ -150,6 +156,10 @@
 
 * [Who is pirating medical literature? A bibliometric review of 28 million Sci-Hub downloads](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30388-7/fulltext) (Till et al., 2018).
 
+* [Meta-Research: Tracking the popularity and outcomes of all bioRxiv preprints](https://elifesciences.org/articles/45133) (Abdill and Blekhman, 2019).
+
+* [The economic impacts of Open Science: A rapid evidence assessment](https://www.preprints.org/manuscript/201905.0302/v1) (Fell, 2019).
+
 
 **Key posts**
 
@@ -174,6 +184,8 @@
 * [Plan S and cOALition S](https://www.scienceeurope.org/coalition-s/).
 
 * [Sharing new educational resources on open licensing for preprints](http://asapbio.org/new-licensing-resources), Jessic Polka, Donna Okubo, Tim Vollmer.
+
+* [Cost models for running on online open journal](http://blog.joss.theoj.org/2019/06/cost-models-for-running-an-online-open-journal), JOSS.
 
 **Other**
 

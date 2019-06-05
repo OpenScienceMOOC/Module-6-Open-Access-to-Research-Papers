@@ -13,7 +13,6 @@ This is **Module 6** of the [**Open Science MOOC**](https://eliademy.com/opensci
 
 **Learning outcomes**
 
-
 * You will become familiar with the history of scholarly publishing, and development of the present Open Access landscape.
 
 * You will gain a multi-stakeholder insight into Open Access, and be able to convey a balanced overview of the perceived advantages and disadvantages associated with Open Access publishing.
@@ -37,7 +36,7 @@ There are X tasks that are X as part of this module:
 
 [Discuss obligations for quizzes and tasks]
 
-[Insert image of certifcate]
+[Insert image of certificate]
 
 **Citation**: We strongly encourage maximal sharing, re-use, and remixing of all content available for this module. It is also openly-licensed (CC0 or CC-BY at source) and copyright free as such. To cite this work, please use:
 
