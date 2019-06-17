@@ -188,6 +188,8 @@
 
 * [Who is pirating medical literature? A bibliometric review of 28 million Sci-Hub downloads](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30388-7/fulltext) (Till et al., 2018).
 
+* [Quantifying the Growth of Preprint Services Hosted by the Center for Open Science](https://www.mdpi.com/2304-6775/7/2/44/htm) (Narock and Goldstein, 2019).
+
 
 **Key posts**
 
