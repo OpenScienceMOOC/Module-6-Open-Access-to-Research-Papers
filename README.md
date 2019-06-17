@@ -25,6 +25,7 @@ Making scholarly research outputs openly available to everyone is simple, legal,
 * Erzsébet Tóth-Czifra - Digital Human
 * Paola Masuzzo - Batman of Open Science
 * Britta Nölte - Aktivseniorin
+* Andy  Nobes - 
 
 ## Key documents <a name="Key documents"></a>
 

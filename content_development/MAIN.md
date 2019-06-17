@@ -99,6 +99,7 @@ output:
 * Erzsébet Tóth-Czifra - Digital Human
 * Paola Masuzzo - Batman of Open Science
 * Britta Nölte - Aktivseniorin
+* Andy Nobes - 
 
 <br/>
 
