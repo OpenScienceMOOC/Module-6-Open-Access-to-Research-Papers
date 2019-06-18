@@ -92,14 +92,14 @@ output:
 ## Production team <a name="team"></a>
 
 * Charlotte Weber - Team Lead
-* Jon Tennant - Dinosaur whisperer, co-leader-ish
+* Jon Tennant - Dinosaur whisperer
 * Tobias Steiner - Open Ed Quizzard
 * Encarni Martínez - Wonderful Brains
 * Ritwik Agarwal - Open Science Activist
 * Erzsébet Tóth-Czifra - Digital Human
 * Paola Masuzzo - Batman of Open Science
 * Britta Nölte - Aktivseniorin
-* Andy Nobes - 
+* Andy Nobes - Socratic Goldfish
 
 <br/>
 
