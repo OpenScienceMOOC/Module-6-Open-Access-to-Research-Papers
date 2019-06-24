@@ -17,6 +17,7 @@ output:
 - [What are the different types of Open Access](#types)
   - [Open licensing](#licensing)
 - [Why is Open Access important](#important)
+  - [What is the ethical basis for Open Access?](#ethics)
 - [How does Open Access impact you](#impact)
 - [Painting a global picture of Open Access](#global)
 - [Preprints, postprints, and VORs](#preprints)
@@ -50,6 +51,10 @@ output:
 <br/>
 
 ## Why is Open Access important <a name="important"></a>
+
+<br/>
+
+### What is the ethical basis for Open Access? <a name="ethics"></a>
 
 <br/>
 

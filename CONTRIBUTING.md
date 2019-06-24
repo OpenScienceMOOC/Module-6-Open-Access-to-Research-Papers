@@ -1,5 +1,7 @@
 # Contribution Guidelines
+
 These are the main contributing guidelines for the development of this MOOC, and apply to each module within. The development structure for this is based on a combination of two things:
+
 1. Invited experts as part of a core development team, led by one or two managers for each module.
 1. Open participation, where anyone can contribute using the standard processes on GitHub.
 
@@ -16,11 +18,12 @@ If you have questions about the project, please [email us](info@opensciencemooc.
 Stay tuned on what's happening on Twitter with [@OpenScienceMOOC](https://twitter.com/OpenScienceMOOC).
 
 ## Getting started
+
 1. [Forming a team for collaborative design](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MODULE_DESIGN_PROTOCOL.md#forming-a-team-for-collaborative-design).
 1. [The development process](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MODULE_DESIGN_PROTOCOL.md#the-development-process).
 1. Familiarise yourself with the [script writing guide](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/Writing_a_script.md), the [script template](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/Script_template.md) and the [video management protocol](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/Video_management_protocol.md).
 
-Each team will adhere to the [MOOC planning template](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MOOC%20planning%20template.docx) to structure development in a systematic way. 
+Each team will adhere to the [MOOC planning template](https://github.com/OpenScienceMOOC/Main/blob/master/Production_Files/MOOC%20planning%20template.docx) to structure development in a systematic way. These are customised for each module from a common framework.
 
 
 ## Reporting issues
@@ -50,7 +53,6 @@ Please refer to each project's style guidelines and guidelines for submitting pa
 - Submit a Pull request so that we can review your changes
 
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
-
 
 - Try not to pollute your pull request with unintended changes – keep them simple and small. If possible, squash your commits.
 - Try to share how your code has been tested before submitting a pull request.
