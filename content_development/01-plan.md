@@ -26,7 +26,7 @@
   - Juan Pablo Alperin, Heather Piwowar
 
 * Why is OA important (i.e., sharing research findings with international academic and non-academic communities without paywall and other usage restrictions)
-  - Ivonne Lujano, Anson Mackay, Jo Havemann
+  - Ivonne Lujano, Anson Mackay
 
 * Personal academic impact and advantages of Open Access (e.g., increased citation counts, visibility, readership)
   - Erin McKiernan, Chris Jackson, Jason Priem
