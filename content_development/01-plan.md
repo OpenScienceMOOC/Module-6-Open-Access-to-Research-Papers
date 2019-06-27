@@ -29,7 +29,7 @@
   - Ivonne Lujano, Anson Mackay
 
 * Personal academic impact and advantages of Open Access (e.g., increased citation counts, visibility, readership)
-  - Erin McKiernan, Chris Jackson, Jason Priem
+  - Chris Jackson, Jason Priem
 
 * Painting a global picture: national, funder, and institutional policies and mandates
   - Abel Packer, Arianna Becerril, Andy Nobes
@@ -50,10 +50,10 @@
   - Brian Nosek, Stephanie Dawson
 
 * Open Access monographs and books
-  - Caroline Edwards, Martin Eve, Erzsebet Toth-Czifra
+  - Caroline Edwards, Erzsebet Toth-Czifra
 
 * Pre-registration
-  - Chris Chambers
+  - Lisa DeBruine
   
 * Open Access and discoverability
   - Peter Kraker
