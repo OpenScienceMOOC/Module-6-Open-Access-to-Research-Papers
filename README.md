@@ -26,6 +26,7 @@ Making scholarly research outputs openly available to everyone is simple, legal,
 * Paola Masuzzo - Batman of Open Science
 * Britta Nölte - Aktivseniorin
 * Andy  Nobes - Socratic Goldfish
+* Josmel Pacheco-Mendoza - Regulus
 
 ## Key documents <a name="Key documents"></a>
 

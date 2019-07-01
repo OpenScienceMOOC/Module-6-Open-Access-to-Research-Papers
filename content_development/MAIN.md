@@ -105,6 +105,7 @@ output:
 * Paola Masuzzo - Batman of Open Science
 * Britta Nölte - Aktivseniorin
 * Andy Nobes - Socratic Goldfish
+* Josmel Pacheco-Mendoza - Regulus
 
 <br/>
 
