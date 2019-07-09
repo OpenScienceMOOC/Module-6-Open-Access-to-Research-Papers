@@ -6,13 +6,13 @@
 
 > 2. Everyone has the right to the protection of the moral and material interests resulting from any scientific, literary or artistic production of which he is the author.
 
-Welcome to Module 6 of the Open Science MOOC and Open Access to Research Papers! Open Access (OA) describes the act of making peer reviewed research articles (aka 'papers') freely available online without cost or any other restrictions or barriers to its re-use. This is aligned with the UN Declaration on Human Rights above, and therefore could be considered to be a fundamental human right and a matter of social justice.
+Welcome to Module 6 of the Open Science MOOC and Open Access to Research Papers! Open Access (OA) describes the act of making research articles (aka 'papers') freely available online without cost or any other restrictions or barriers to its re-use. This is aligned with the UN Declaration on Human Rights above, and therefore could be considered to be a fundamental human right and a matter of social justice. OA also extends to other forms of research outputs too, including non-peer-reviewed work, books, book chapters, theses and monographs. 
 
 [INSERT OAlogo.jpg HERE]
 
-However, in spite of this, most scholarly research that has ever been produced does not fulfil this basic criteria. In fact, the vast majority of scientific knowledge remains locked away behind expensive paywalls - something often called 'toll access' or 'closed access'.
+However, in spite of this clear importance, most scholarly research that has ever been produced does not fulfil this basic criteria. In fact, the vast majority of scientific knowledge remains locked away behind expensive paywalls - something often called 'toll access' or 'closed access'. This is not right.
 
-A [study in 2018 by Heather Piwowar and colleagues](https://peerj.com/articles/4375/) showed that while there is a growing trend towards more research being freely available, around 75% of all scholarly research is not publicly available. Open Access was the counter-movement towards this problem.
+A [study in 2018 by Heather Piwowar and colleagues](https://peerj.com/articles/4375/) showed that while there is a growing trend towards more research being freely available, around 75% of all scholarly research is not publicly available. Open Access was the counter-movement towards solving this problem.
 
 [INSERT oa_growth.jpg HERE]
 
