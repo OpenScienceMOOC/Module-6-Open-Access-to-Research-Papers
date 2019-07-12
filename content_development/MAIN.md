@@ -22,6 +22,7 @@ output:
 - [Painting a global picture of Open Access](#global)
 - [Preprints, postprints, and VORs](#preprints)
 - [The cost and economics if Open Access](#economics)
+- [Open Access platforms](#OAplatforms)
 - [Institutional and subject repositories](#repositories)
 - [Scholarly collaboration platforms](#platforms)
 - [Open Access monographs and books](#monographs)
@@ -71,6 +72,10 @@ output:
 <br/>
 
 ## The cost and economics of Open Access <a name="economics"></a>
+
+<br/>
+
+## Open Access platforms <a name="OAplatforms"></a>
 
 <br/>
 
