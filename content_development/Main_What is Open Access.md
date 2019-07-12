@@ -1,12 +1,14 @@
 ## What is Open Access <a name="open_access"></a>
 
-**Open Access** Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content. (BOAI, [source](http://www.righttoresearch.org/resources/OpenResearchGlossary/#core))
+**Open Access**: Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content. (BOAI, [source](http://www.righttoresearch.org/resources/OpenResearchGlossary/#core))
 
 ### I learned about it in Open Access, a history
 
 As always, we like to start these modules off by giving a nice history lesson to help provide additional context to how we arrived at the present state.
 
 So, the history of Open Access (OA) actually goes back a long time before OA was even really a thing. OA is based around ideals and principles around sharing, and these existed long before the term "Open Access" was coined. For example, computer scientists and software developers have been freely archiving and sharing their code since the 1970s. Physicists have been sharing their articles and data since the early 1990s on a platform called "arXiv" (prounced ar-chi-ve). These ideas are rooted in that of the "[Commons](https://en.wikipedia.org/wiki/Commons)" - that all resources be made accessible to all members of society.
+
+The OA movement was/is primarily motivated by the social inequalities created by restricting access to scholarly research. This model tends to favor large and wealthy institutions with the financial means to purchase access to many journals. However, it was also catalysed by the economic challenges and perceived unsustainability of the wider academic publishing industry.
 
 The term "Open Access" itself was first formulated in three public statements made in the 2000s, considered to be pivotal moments in the history of OA. These are the:
 
