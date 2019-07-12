@@ -5,17 +5,34 @@ The first free scientific online archive was arXiv.org, started in 1991, initial
 
 https://arxiv.org/abs/physics/0102004
 
+Some useful definitions here include:
 
+* **Preprint** - A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
 
+* **Postprint** - A manuscript draft after it has been peer reviewed.
 
-    Pre-print - a manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+* **Version of Record (VOR)** - The final version of a manuscript, after peer review and processing by a publishers.
 
-    Post-print - a manuscript draft after it has been peer reviewed.
+* **Hybrid** - A type of journal in which certain articles are made open access for typically a significantly higher price (relative to full OA journals), while others remain toll access.
 
-    Version of Record (VOR) - the final version of a manuscript, after peer review and processing by a publishers.
+* **Accepted author manuscript** - The version of a manuscript that has been accepted by a publisher for publication.
 
-    Hybrid - a type of journal in which certain articles are made open access for typically a significantly higher price (relative to full OA journals), while others remain toll access.
+* **Eprint** - A digital version of a research document available online for a repository.
 
-    Accepted author manuscript - the version of a manuscript that has been accepted by a publisher for publication.
+### Examples of preprint servers/platforms
 
-    Eprint - a digital version of a research document available online for a repository.
+Here, platforms that end with "rXiv" of some sort are pronounced "archive" - the X is actually the Greek letter chi in these cases.
+
+* [**Cogprints**](http://www.cogprints.org/) -  An electronic archive for self-archive papers in any area of Psychology, Neuroscience, and Linguistics, and many areas of Computer Science, Philosophy, and Biology.
+
+* [**ESSOAr**](https://www.essoar.org/) - An Earth and Species Science open archive.
+
+* [**ChemRxiv**](https://chemrxiv.org/) - A preprint server for Chemistry.
+
+* [**SSRN**](https://www.ssrn.com/index.cfm/en/) - The So cial Sciences Research Network. Note that SSRN is now owned by Elsevier.
+
+* [**Open Science Framework Preprints**](https://osf.io/preprints/) - A collection of preprint service providers that use the OSF open source infrastructure to support their communities.
+
+* [**PrePubMed**](http://www.prepubmed.org/) - A platform that indexes preprints from arXiv q-bio, PeerJ Preprints, bioRxiv, F1000Research, preprints.org, The Winnower, Nature Precedings, and Wellcome Open Research.
+
+A really useful initiative in this space too is [ASAPbio](https://asapbio.org/). This is a scientist-driven non-profit promoting transparency and innovation in life science communication.

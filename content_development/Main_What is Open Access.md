@@ -48,3 +48,5 @@ As we also learn about in the [Open Source and Open Research Software module](),
 [Note include video from CC here]
 
 [INCLUDE Licenses used by gold and hybrid OA journals in DOAJ image here]
+
+> **Pro-tip**: Your article has been accepted for publication in a journal and, like your colleagues, you want it to have the widest possible distribution and impact in the scholarly community. However, in traditional publication agreements you are forced to transfer copyright of your work to the publisher, which prohibits you from being able to freely share it. The SPARC Author Addendum is a legal instrument that modifies the publisher's agreement and allows you to keep key rights to your articles. The [Author Addendum](https://sparcopen.org/our-work/author-rights/brochure-html/) is a free resource developed by SPARC in partnership with Creative Commons and Science Commons, established non-profit organizations that offer a range of copyright options for many different creative endeavors.
