@@ -16,7 +16,7 @@
 
 * Pre-prints, post-prints, and versions of record (VOR).
 
-* Different ‘types’ of Open Access: gold, green, [diamond/platinum](https://www.google.com/url?q=https://openscience.uni-bielefeld.de/1013/what-is-platinum-open-access&sa=D&ust=1496297601957000&usg=AFQjCNFCmRz4Ub5JSo_23w3OWvdz5B-O8Q), black.
+* Different types of Open Access: gold, green, [diamond/platinum](https://www.google.com/url?q=https://openscience.uni-bielefeld.de/1013/what-is-platinum-open-access&sa=D&ust=1496297601957000&usg=AFQjCNFCmRz4Ub5JSo_23w3OWvdz5B-O8Q), black.
 
 * The cost and economics of Open Access.
 
@@ -90,7 +90,7 @@
 
     * [Héloïse](https://heloise.ccsd.cnrs.fr/) (for French journals).
 
-* [SHERPA Juliet](http://v2.sherpa.ac.uk/juliet/) - Research Funders’ Open Access policies.
+* [SHERPA Juliet](http://v2.sherpa.ac.uk/juliet/) - Research Funders' Open Access policies.
 
 * [Wellcome Open Research](https://wellcomeopenresearch.org/) and [Gates Open Research](https://gatesopenresearch.org/).
 
@@ -144,9 +144,9 @@
 
 * [Proportion of Open Access Papers Published in Peer-Reviewed Journals at the European and World Levels 1996-2013](http://science-metrix.com/sites/default/files/science-metrix/publications/d_1.8_sm_ec_dg-rtd_proportion_oa_1996-2013_v11p.pdf) (European Commission, 2014).
 
-* [Disrupting the subscription journals’ business model for the necessary large-scale transformation to open access](http://pubman.mpdl.mpg.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:2148961) (Schimmer et al., 2015).
+* [Disrupting the subscription journals' business model for the necessary large-scale transformation to open access](http://pubman.mpdl.mpg.de/pubman/faces/viewItemOverviewPage.jsp?itemId=escidoc:2148961) (Schimmer et al., 2015).
 
-* [Hybrid open access—A longitudinal study](https://www.sciencedirect.com/science/article/pii/S1751157716301523?via%3Dihub) (Laakso and Bjork, 2016).
+* [Hybrid open access - A longitudinal study](https://www.sciencedirect.com/science/article/pii/S1751157716301523?via%3Dihub) (Laakso and Bjork, 2016).
 
 * [Point of View: How open science helps researchers succeed](https://elifesciences.org/articles/16800) (McKiernan et al., 2016).
 
@@ -265,7 +265,7 @@
 
     * Check which other additional services are offered by the journal (e.g., XML conversion, publication of updated versions, text and data mining allowances).
 
-    * Check journal ‘whitelists’ (e.g., [The Norwegian Register for Scientific Journals, Series and Publishers](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en)).
+    * Check journal whitelists (e.g., [The Norwegian Register for Scientific Journals, Series and Publishers](https://dbh.nsd.uib.no/publiseringskanaler/Forside.action?request_locale=en)).
 
 * Draft a summary statement/report outlining the pros and cons of these outlets (e.g., editorial quality, OA policies).
 
@@ -273,7 +273,7 @@
 
     * How does this compare to your views?
 
-* Simple exercises on average "cost of a paper"; for example the average institute budget/publication output, or your last research grant/papers out compared to the average ‘gold Open Access’ cost in that discipline.
+* Simple exercises on average "cost of a paper"; for example the average institute budget/publication output, or your last research grant/papers out compared to the average gold Open Access cost in that discipline.
 
 * Find out if you are eligible for funds to pay for article-processing charges APCs.
 
