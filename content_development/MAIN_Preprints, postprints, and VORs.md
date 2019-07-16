@@ -29,10 +29,12 @@ Here, platforms that end with "rXiv" of some sort are pronounced "archive" - the
 
 * [**ChemRxiv**](https://chemrxiv.org/) - A preprint server for Chemistry.
 
-* [**SSRN**](https://www.ssrn.com/index.cfm/en/) - The So cial Sciences Research Network. Note that SSRN is now owned by Elsevier.
+* [**SSRN**](https://www.ssrn.com/index.cfm/en/) - The Social Sciences Research Network. Note that SSRN is now owned by Elsevier.
 
 * [**Open Science Framework Preprints**](https://osf.io/preprints/) - A collection of preprint service providers that use the OSF open source infrastructure to support their communities.
 
 * [**PrePubMed**](http://www.prepubmed.org/) - A platform that indexes preprints from arXiv q-bio, PeerJ Preprints, bioRxiv, F1000Research, preprints.org, The Winnower, Nature Precedings, and Wellcome Open Research.
 
-A really useful initiative in this space too is [ASAPbio](https://asapbio.org/). This is a scientist-driven non-profit promoting transparency and innovation in life science communication.
+A really useful initiative in this space too is [ASAPbio](https://asapbio.org/). This is a researcher-driven non-profit promoting transparency and innovation in life science communication.
+
+Several language-specific preprint servers have also recently emerged. These include [Arabixiv](https://arabixiv.org/) (Arabic), [Frenxiv](https://frenxiv.org/) (French), and [INA-Rxiv](https://osf.io/preprints/inarxiv/) (Indonesian), all hosted by the Open Science Framework.

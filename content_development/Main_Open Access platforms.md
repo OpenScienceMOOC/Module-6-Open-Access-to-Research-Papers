@@ -13,7 +13,7 @@ The main databases for OA articles and journals are the Directory of Open Access
 
 Other useful platforms that are worth knowing about include:
 
-* **SHERPA/RoMEO**:
+* [**SHERPA/RoMEO**](http://www.sherpa.ac.uk/romeo/index.php): A database of publisher copyright and self-archiving policies.
 
 * [**SHERPA/JULIET**](http://v2.sherpa.ac.uk/juliet/): A database comprising funder policies for OA.
 
@@ -29,4 +29,6 @@ Other useful platforms that are worth knowing about include:
 
 * [**Open Access Directory (OAD)**](http://oad.simmons.edu/oadwiki/Main_Page): A compendium of simple factual lists about OA to science and scholarship, maintained by the OA community at large.
 
-* [**CORE**](https://core.ac.uk/): Simply put, the world's largest collection of open access research papers, with more than 135 million searchable papers from around the world. 
+* [**CORE**](https://core.ac.uk/): Simply put, the world's largest collection of open access research papers, with more than 135 million searchable papers from around the world.
+
+* [**Listing of Open Access Databases (LOADB)**](http://www.loadb.org/):  A web-enabled, linked, classified and categorized collection of Open Access Databases which one can access from a single portal.
