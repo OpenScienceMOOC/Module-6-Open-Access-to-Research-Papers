@@ -1,17 +1,16 @@
 ## Open Access platforms <a name="OAplatforms"></a>
 
-There are a number of different types of platforms or databases when it comes to OA. These can be for articles, metadata, datasets themselves, or journals. In fact, there is a complex ecosystem of platforms out there - some overlap, some integrate, some are stand-alone. This forms a generally confusing infrastructure around OA and scholarly publishing in general.
+There are a number of different types of platforms or databases when it comes to OA. These can be for articles, metadata, datasets themselves, or journals. In fact, there is a complex ecosystem of platforms out there - some overlap, some integrate, some are stand-alone. This forms a generally confusing infrastructure around OA and scholarly publishing in general. We will touch on scholarly collaboration platforms in another sub-section of this module.
 
-The main databases for OA articles and journals are the Directory of Open Access Journals ([DOAJ](https://doaj.org/)) and PubMed Central ([PMC](https://www.ncbi.nlm.nih.gov/pmc/)). In the case of DOAJ, only fully "gold" OA journals are included, whereas PMC also hosts articles from hybrid journals.
+The main databases for OA articles and journals are the Directory of Open Access Journals ([DOAJ](https://doaj.org/)) and PubMed Central ([PMC](https://www.ncbi.nlm.nih.gov/pmc/)). In the case of DOAJ, only fully "gold" OA journals are included, whereas PMC also hosts articles from hybrid journals. Databases like this often form the basis for bibliometric studies of the global journal and publishing landscape. 
 
-More recently, F1000 have helped to launch several funder-led OA publishing platfiorms, This includes [Wellcome Oepn Research](https://wellcomeopenresearch.org/), with the Wellcome Trust (UK), and [Gates Open Research](https://gatesopenresearch.org/), with the Bill and Melinda Gates Foundation (USA). These operate very similarly to the F1000 Research platform, with researchers able to publish their work rapidly and with successive rounds of open peer review.
+More recently, F1000 have helped to launch several funder-led OA publishing platforms, This includes [Wellcome Oepn Research](https://wellcomeopenresearch.org/), with the Wellcome Trust (UK), and [Gates Open Research](https://gatesopenresearch.org/), with the Bill and Melinda Gates Foundation (USA). These operate very similarly to the F1000 Research platform, with researchers able to publish their work rapidly and with successive rounds of open peer review.
 
 ### European Open Science Cloud
 
 [INSERT VIDEO FROM JCB]
 
-
-### Other useful platforms
+### Useful platforms to be aware of
 
 Other useful platforms that are worth knowing about include:
 

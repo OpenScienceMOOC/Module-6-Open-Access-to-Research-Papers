@@ -12,7 +12,7 @@ Welcome to Module 6 of the Open Science MOOC and Open Access to Research Papers!
 
 However, in spite of this clear importance, most scholarly research that has ever been produced does not fulfil this basic criteria. In fact, the vast majority of scientific knowledge remains locked away behind expensive paywalls - something often called 'toll access' or 'closed access'. This is not right.
 
-A [study in 2018 by Heather Piwowar and colleagues](https://peerj.com/articles/4375/) showed that while there is a growing trend towards more research being freely available, around 75% of all scholarly research is not publicly available. Open Access was the counter-movement towards solving this problem.
+A [study in 2018 by Heather Piwowar and colleagues](https://peerj.com/articles/4375/) showed that while there is a growing trend towards more research being freely available, around 75% of all published scholarly research is **not** publicly available. Open Access was the counter-movement towards solving this global problem.
 
 [INSERT oa_growth.jpg HERE]
 
@@ -20,7 +20,7 @@ A [study in 2018 by Heather Piwowar and colleagues](https://peerj.com/articles/4
 
 Designed primarily for students and researchers at the graduate and undergraduate level, this module also serves as training material for postdocs and more senior researchers. We want to help make openness universal and for all, not just a select few. This aims to be a cross-disciplinary module covering all research branches, including Engineering, Medicine, Biosciences, Mathematics, Social Sciences, Humanities, and the Arts. Basically, if you publish outputs from your research, this is for you.
 
-We have tried to set a highly inclusive standard, and right from the very beginning have had people from across the whole spectrum of scholarly research, and related disciplines like tech, publishing, and librarianship, involved in developing and scoping the project. We have also tried to include a broad geographic perspective, as Open Access is a global issue.
+We have tried to set a highly inclusive standard, and right from the very beginning have had people from across the whole spectrum of scholarly research, and related disciplines like tech, publishing, and librarianship, involved in developing and scoping the project. We have also tried to include a broad geographic perspective, as OA is a global issue.
 
 ### Specific learning objectives for this module
 
