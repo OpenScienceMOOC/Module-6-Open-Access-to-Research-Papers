@@ -50,3 +50,13 @@ As we also learn about in the [Open Source and Open Research Software module](ht
 [INCLUDE Licenses used by gold and hybrid OA journals in DOAJ image here]
 
 > **Pro-tip**: Your article has been accepted for publication in a journal and, like your colleagues, you want it to have the widest possible distribution and impact in the scholarly community. However, in traditional publication agreements you are forced to transfer copyright of your work to the publisher, which prohibits you from being able to freely share it. The SPARC Author Addendum is a legal instrument that modifies the publisher's agreement and allows you to keep key rights to your articles. The [Author Addendum](https://sparcopen.org/our-work/author-rights/brochure-html/) is a free resource developed by SPARC in partnership with Creative Commons and Science Commons, established non-profit organizations that offer a range of copyright options for many different creative endeavors.
+
+[INCLUDING ASAPBIO licensing image here, source https://asapbio.org/licensing-faq/licensing-diagram-2018-10-04]
+
+### Wait, so really then, what is Open Access?
+
+For this, Samuel Moore has provided quite a nice solution to make sense within all the chaos:
+
+> From analysing its historical underpinnings and subsequent development, I argue that OA is best conceived as a boundary object, a term coined by Star and Griesemer (1989) to describe concepts with a shared, flexible definition between communities of practice but a more community-specific definition within them. Boundary objects permit working relationships between communities while allowing local use and development of the concept. This means that OA is less suitable as a policy object, because boundary objects lose their use-value when ‘enclosed’ at a general level, but should instead be treated as a community-led, grassroots endeavour. ([Moore, 2017](https://journals.openedition.org/rfsic/3220))
+
+So, it got messy, but it is best to perhaps stick to the original, grassroots-led meaning - see the beginning of this section.

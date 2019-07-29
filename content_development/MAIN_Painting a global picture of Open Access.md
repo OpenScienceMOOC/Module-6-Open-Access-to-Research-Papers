@@ -1,5 +1,9 @@
 ## Painting a global picture of Open Access <a name="global"></a>
 
+Open Access is everywhere, in virtually every country around the world. Even [UNESCO]() have an Open Access policy, quoting:
+
+> Equal access to science is not only a social and ethical requirement for human development, but also essential for realizing the full potential of scientific communities worldwide and for orienting scientific progress towards meeting the needs of humankind.” (The World Conference on Science, 1999, held under the auspices of UNESCO and ICSU)
+
 While the overall state of the scholarly publishing industry is dominated by major western publishing houses, there are a number of high-level international collaborations that challenge this oligopolistic landscape.
 
 For example:

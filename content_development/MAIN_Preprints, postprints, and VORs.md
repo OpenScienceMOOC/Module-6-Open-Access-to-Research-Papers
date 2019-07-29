@@ -65,5 +65,6 @@ Thankfully, there is a service out there to make your life a little easier, call
 * Green: Journals allow authors to share pre- and postprints
 * Blue: Journals allow authors to share postprints
 * Yellow: Journals allow authors to share preprints
-' White: Journals to not formally allow authors to share their work
+* White: Journals to not formally allow authors to share their work
 
+[ASAPbio also has a handy little educational resource](https://asapbio.org/new-licensing-resources) for open licensing for preprints.
