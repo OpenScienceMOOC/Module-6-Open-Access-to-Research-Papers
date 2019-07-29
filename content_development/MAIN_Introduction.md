@@ -1,6 +1,6 @@
 ## Introduction <a name="introduction"></a>
 
-![First page of the declaration](https://www.un.org/sites/www.un.org/files/2015/10/07/universal-declaration-human-rights.jpg)
+[INSERT universal-declaration-human-rights.jpg HERE] 
 
 ### Article 27 of the [UN Declaration on Human Rights](https://www.un.org/en/universal-declaration-human-rights/)
  
