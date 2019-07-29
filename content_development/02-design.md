@@ -96,7 +96,7 @@
 
 **Research Articles and Reports**
 
-* [The Nine Flavours of Open Access Scholarly Publishing](http://www.jpgmonline.com/article.asp?issn=0022-3859;year=2003;volume=49;issue=3;spage=263;epage=267;aulast=Willinsky) (Willinsky, 2003).
+* [The Nine Flavours of Open Access Scholarly Publishing](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.1731&rep=rep1&type=pdf#page=5) (Willinsky, 2003).
 
 * [The Development of Open Access Journal Publishing from 1993 to 2009](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020961) (Laakso et al., 2011).
 
