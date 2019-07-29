@@ -2,7 +2,9 @@
 
 There are a number of different types of platforms or databases when it comes to OA. These can be for articles, metadata, datasets themselves, or journals. In fact, there is a complex ecosystem of platforms out there - some overlap, some integrate, some are stand-alone. This forms a generally confusing infrastructure around OA and scholarly publishing in general.
 
-The main databases for OA articles and journals are the Directory of Open Access Journals ([DOAJ](https://doaj.org/)) and PubMed Central [PMC](https://www.ncbi.nlm.nih.gov/pmc/). In the case of DOAJ, only fully "gold" OA journals are included, whereas PMC also hosts articles from hybrid journals.
+The main databases for OA articles and journals are the Directory of Open Access Journals ([DOAJ](https://doaj.org/)) and PubMed Central ([PMC](https://www.ncbi.nlm.nih.gov/pmc/)). In the case of DOAJ, only fully "gold" OA journals are included, whereas PMC also hosts articles from hybrid journals.
+
+More recently, F1000 have helped to launch several funder-led OA publishing platfiorms, This includes [Wellcome Oepn Research](https://wellcomeopenresearch.org/), with the Wellcome Trust (UK), and [Gates Open Research](https://gatesopenresearch.org/), with the Bill and Melinda Gates Foundation (USA). These operate very similarly to the F1000 Research platform, with researchers able to publish their work rapidly and with successive rounds of open peer review.
 
 ### European Open Science Cloud
 
@@ -19,9 +21,10 @@ Other useful platforms that are worth knowing about include:
 
 * [**OpenDOAR**](http://v2.sherpa.ac.uk/opendoar/): A global directory of OA repositories and their associated policies.
 
-* [**ROAR**](https://web.archive.org/web/20121030222530/http://roar.eprints.org/):
+* [**ROAR**](https://web.archive.org/web/20121030222530/http://roar.eprints.org/): Promotes the development of OA by providing timely information about the growth and status of repositories throughout the world.
 
-* **Think, Check, Submit**:
+* [**Think, Check, Submit**](https://thinkchecksubmit.org/): helps researchers identify trusted journals for their research.
+Through a range of tools and practical resources, this international, cross-sector initiative aims to educate researchers, promote integrity, and build trust in credible research and publications.
 
 * [**Open Access Journal Whitelist**](http://s-quest.bihealth.org:3838/OAWhitelist/): Designed by the Quest Center in Berlin, this contains biomedical open access journals that are listed on the DOAJ and PMC.
 
@@ -32,3 +35,9 @@ Other useful platforms that are worth knowing about include:
 * [**CORE**](https://core.ac.uk/): Simply put, the world's largest collection of open access research papers, with more than 135 million searchable papers from around the world.
 
 * [**Listing of Open Access Databases (LOADB)**](http://www.loadb.org/):  A web-enabled, linked, classified and categorized collection of Open Access Databases which one can access from a single portal.
+
+* [**Open Access Policy Alignment Strategies for European Union Research (PASTEUR4OA)**](http://www.pasteur4oa.eu/): Supports the European Commission’s Recommendation to Member States that they develop and implement policies to ensure OA to all outputs from publicly-funded research.
+
+* [**JSTOR**](https://www.jstor.org/open/?cid=SOC_JSTOR): A repository of academic content.
+
+* [**Dimensions**](https://www.dimensions.ai/): A comprehensive database of research grants, publication, patents, datasets, citations, policy documents, clinical trials, and Altmetric scores.

@@ -13,3 +13,5 @@ For example, a traditional measure of research impact is the number of citations
 But it isn't just citations which OA influences. There are a number of other ways in which OA helps to amplify the reach and re-use of your work.
 
 For example, a [study in 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23687) found that the odds of an OA journal being referenced on the English Wikipedia are 47% higher compared to paywalled journals. Therefore, it seems that OA has a significant "amplifier" effect for the diffusion of scientific research communicated via other such platforms.
+
+If you want to find out more, there is actually a fun side to Open Access! Check out the [Publishing Trap](https://copyrightliteracy.org/resources/the-publishing-trap/) board game from the UK Copyright Literacy team. 

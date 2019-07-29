@@ -12,8 +12,8 @@ For example:
 
 * **Public Knowledge Project**: Developed the open-source publishing software Open Journal Systems (OJS), which is now in use around the world
 
-* **African Journals Online (AJOL)**:
+* [**African Journals Online (AJOL)**](https://www.ajol.info/): AJOL partners with hundreds of journals from all over the African continent, so that African-origin research output is available to Africans and to the rest of the world. 
 
-* [**REDALYC**](http://www.redalyc.org/home.oa): A bibliographic database and a digital library of OA journals, supported by the Universidad Autónoma del Estado de México with the help of numerous other higher education institutions and information systems.
+* [**REDALYC**](http://www.redalyc.org/home.oa): A bibliographic database and a digital library of OA journals, supported by the Universidad Aut?noma del Estado de M?xico with the help of numerous other higher education institutions and information systems.
 
 * [**LA Referencia**](http://www.lareferencia.info/en/): A platform that gives visibility to the scientific production of higher education and research institutions in Latin America, promotes open and free access to the full text, with special emphasis on publicly financed results.

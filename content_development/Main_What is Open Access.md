@@ -43,7 +43,7 @@ For more on the history of Open Access, this [Wikipedia article](https://en.wiki
 
 ### Licensing
 
-As we also learn about in the [Open Source and Open Research Software module](), licensing here is fundamental to Open Access. Licensing provides a legal framework that grants certain rights to creators and users. Critical to OA is the ideal of unrestricted re-use, meaning remixing, sharing, and well, anything really. Research clearly works better when people are free to do with it whatever they want.
+As we also learn about in the [Open Source and Open Research Software module](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html), licensing here is fundamental to Open Access. Licensing provides a legal framework that grants certain rights to creators and users. Critical to OA is the ideal of unrestricted re-use, meaning remixing, sharing, and well, anything really. Research clearly works better when people are free to do with it whatever they want.
 
 [Note include video from CC here]
 
