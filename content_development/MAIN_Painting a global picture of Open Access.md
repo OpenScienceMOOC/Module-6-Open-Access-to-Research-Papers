@@ -21,3 +21,8 @@ For example:
 * [**REDALYC**](http://www.redalyc.org/home.oa): A bibliographic database and a digital library of OA journals, supported by the Universidad Aut?noma del Estado de M?xico with the help of numerous other higher education institutions and information systems.
 
 * [**LA Referencia**](http://www.lareferencia.info/en/): A platform that gives visibility to the scientific production of higher education and research institutions in Latin America, promotes open and free access to the full text, with special emphasis on publicly financed results.
+
+
+### Other valuable resources
+
+* SPARC have a [database](http://researchsharing.sparcopen.org/) that documents U.S. federal funder requirements for sharing of research articles and data.

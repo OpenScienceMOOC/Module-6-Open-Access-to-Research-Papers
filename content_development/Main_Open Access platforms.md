@@ -41,3 +41,5 @@ Through a range of tools and practical resources, this international, cross-sect
 * [**JSTOR**](https://www.jstor.org/open/?cid=SOC_JSTOR): A repository of academic content.
 
 * [**Dimensions**](https://www.dimensions.ai/): A comprehensive database of research grants, publication, patents, datasets, citations, policy documents, clinical trials, and Altmetric scores.
+
+* [**Quality Open Access Market (QOAM)**]: A marketplace for scientific and scholarly journals which publish articles in OA. Quality scoring of the journals in QOAM is based on academic crowd sourcing; price information includes institutional licensed pricing.
