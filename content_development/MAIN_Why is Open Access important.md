@@ -1,7 +1,6 @@
 ## Why is Open Access important <a name="important"></a>
 
-Imagine someone in your family falls ill with a particular disease. You want to learn more about it, so you can understand it more. So, you turn to the scientific record.
-
+Imagine someone in your family falls ill with a particular disease. You want to learn more about it, so you can understand it more. So, you turn to the scientific record. However, every research article which you want to read, which might offer you some comfort or understanding, is inaccessible. Time and time again, you encounter the paywall. Before even getting to look inside the article to see if it is useful, you are faced with a $35-40 price tag. This is how the present scholarly publishing system works. Great for those who can afford it, terrible for those who cannot. Most people on this planet cannot afford it.
 
 ### What is the ethical basis for Open Access? <a name="ethics"></a>
 
@@ -35,5 +34,3 @@ In 2017, the World Bank released a [blog post](http://blogs.worldbank.org/voices
 * A 1% to 10% increase in OA would have a recurring annual gain on the rate of return on R&D of 25% to 75% for all OECD countries ([Houghton and Sheehan, 2006](https://www.vu.edu.au/sites/default/files/wp23_2006_cses.pdf)).
 
 * The Human Genome Project, based on the Bermuda OA Principles, has led to advanced personalized medicine and generated $141 in economic activity for every $1 invested by the U.S. government in the project.  The total related economic activity amounted to $796 billion between 1988 and 2010 ([Wilson and Nicholls, 2015](https://doi.org/10.2147/RMHP.S58728); [Tripp and Grueber, 2011](https://www.genome.gov/27544383/calculating-the-economic-impact-of-the-human-genome-project/)).
-
-
