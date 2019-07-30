@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## What are the different types of Open Access <a name="types"></a>
 
 Different 'types' of Open Access  are currently commonly described using a simple colour system. The most commonly recognised are "green" and "gold" OA, among a number of others terms that are also used for additional models, each with a specific [definition](http://www.righttoresearch.org/resources/OpenResearchGlossary/).

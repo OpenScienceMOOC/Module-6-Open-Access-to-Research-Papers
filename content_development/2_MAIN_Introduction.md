@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Introduction <a name="introduction"></a>
 
 [INSERT universal-declaration-human-rights.jpg HERE] 

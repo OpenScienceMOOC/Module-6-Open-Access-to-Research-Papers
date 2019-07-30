@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Open Access and discoverability <a name="discoverability"></a>
 
 Google Scholar is probably pretty much every researcher's go to choice for academic search engine. And while it does a pretty good job of letting you know if you have access to a PDF or not, what it often does not tell you is whether these articles are in violation of copyright or not.

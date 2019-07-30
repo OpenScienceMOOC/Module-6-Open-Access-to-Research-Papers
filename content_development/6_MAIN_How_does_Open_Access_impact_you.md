@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## How does Open Access impact you <a name="impact"></a>
 
 There is a direct link between Open Access and you through the additional research impact it generates. Conceptually, it is hopefully not difficult to see that if more people can access and use something, that makes it more impactful.
@@ -15,3 +21,14 @@ But it isn't just citations which OA influences. There are a number of other way
 For example, a [study in 2016](https://onlinelibrary.wiley.com/doi/full/10.1002/asi.23687) found that the odds of an OA journal being referenced on the English Wikipedia are 47% higher compared to paywalled journals. Therefore, it seems that OA has a significant "amplifier" effect for the diffusion of scientific research communicated via other such platforms.
 
 If you want to find out more, there is actually a fun side to Open Access! Check out the [Publishing Trap](https://copyrightliteracy.org/resources/the-publishing-trap/) board game from the UK Copyright Literacy team. 
+
+
+### Are there any potential downsides to Open Access?
+
+As with each module, we do not want to pretend like openness is this magical cure to all the problems in academia. There are constant and vigorous debates about all aspects of it, and Open Access is no exception. It is our duty to be honest to you all, and communicate some of the potential barriers and limitations to OA here.
+
+Nicely, some good work has been done on this already. In [2018, Gareth Johnson](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Johnson%2C%202018.pdf) looked at the barriers to OA in the UK:
+
+> Notably, while participants represented an array of potential mechanistic, policy or legal blocks, it was the academic community’s knowledge of and attitudes towards OA that were shown to present the greatest obstacles. Despite the endeavours of OA practitioners who were devoted to advocacy, the majority of scholars’ understanding or embrace of openness within research dissemination practice was found to be ‘patchy’, ‘ill-informed’ or ‘confused’.
+
+There is also the fact that often, publishing OA does cost money. We discuss this in detail a lot in SECTION XXXX, and a lot of free alternative routes. However, the reality is often that if you want to publish OA in a specific journal, there will be charges associated with that. Therefore, it is up to you and your authors to be aware of potential funding sources that might be available to you. As well as the options for parallel 'green OA' or self-archiving that the journals permit.

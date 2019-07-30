@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Open Access platforms <a name="OAplatforms"></a>
 
 There are a number of different types of platforms or databases when it comes to OA. These can be for articles, metadata, datasets themselves, or journals. In fact, there is a complex ecosystem of platforms out there - some overlap, some integrate, some are stand-alone. This forms a generally confusing infrastructure around OA and scholarly publishing in general. We will touch on scholarly collaboration platforms in another sub-section of this module.

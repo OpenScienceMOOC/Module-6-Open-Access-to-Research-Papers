@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Painting a global picture of Open Access <a name="global"></a>
 
 Open Access is everywhere, in virtually every country around the world. Even [UNESCO](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf) have an Open Access policy, quoting:
@@ -6,9 +12,11 @@ Open Access is everywhere, in virtually every country around the world. Even [UN
 
 The global landscape is incredibly complex and heterogeneous. Here, we will show  some examples to help illustrate the current state around the world.
 
+[insert continental_OA figure from Chilwa and Sife]
+
 ### Africa
 
-In Africa, more than 1 million OA articles are currently available in repositories from the top 22 countries (Chilwa and Sife, 2017) 
+In Africa, more than 1 million OA articles are currently available in repositories from the top 22 countries ([Chilwa and Sife, 2017](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Chilwa%20and%20Sife%2C%202017.pdf)). Despite its large size, the African continent had only 4.52% of the OA repositories and 0.14% of documents in the OpenDOAR.
 
 ### Asia
 

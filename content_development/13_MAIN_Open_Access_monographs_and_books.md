@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Open Access monographs and books <a name="monographs"></a>
 
 

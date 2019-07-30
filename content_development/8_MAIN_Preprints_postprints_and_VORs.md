@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Preprints, postprints, and VORs <a name="preprints"></a>
 
 Some useful definitions to start things off here include:

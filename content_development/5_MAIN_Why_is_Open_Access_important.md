@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## Why is Open Access important <a name="important"></a>
 
 Imagine someone in your family falls ill with a particular disease. You want to learn more about it, so you can understand it more. So, you turn to the scientific record. However, every research article which you want to read, which might offer you some comfort or understanding, is inaccessible. Time and time again, you encounter the paywall. Before even getting to look inside the article to see if it is useful, you are faced with a $35-40 price tag. This is how the present scholarly publishing system works. Great for those who can afford it, terrible for those who cannot. Most people on this planet cannot afford it.
@@ -13,6 +19,10 @@ This is not just a problem in Europe and North America too. This is a global pro
 ### The societal, economic, and academic impacts of OA
 
 Many years ago (2016), in the pre-MOOC era, several of the now Steering Committee members wrote long, long, [research paper about the positive impacts of OA](https://f1000research.com/articles/5-632/v3). We found the case to be quite overwhelming, in particular the social case for OA is strong for advancing citizen engagement, and leveling the playing field for researchers in developing countries.
+
+Recently, [Fell, 2019](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Fell%2C%202019.pdf) looked at the economic impacts of open science, finding:
+
+> There is indicative evidence that OA to findings/data can lead to savings in access costs, labour costs and transaction 15 costs. There are examples of open science enabling new products, services, companies, research and collaborations. Modelling studies suggest higher returns to Research and Devlopment if OA permits greater accessibility and efficiency of use of findings.
 
 In 2017, the World Bank released a [blog post](http://blogs.worldbank.org/voices/open-order-end-extreme-poverty-0) about the importance of OA for development. This post actually provides a really cool overview of some of the critical evidence supporting the importance of OA:
 
