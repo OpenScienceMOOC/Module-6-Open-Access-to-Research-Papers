@@ -4,6 +4,28 @@ Open Access is everywhere, in virtually every country around the world. Even [UN
 
 > Equal access to science is not only a social and ethical requirement for human development, but also essential for realizing the full potential of scientific communities worldwide and for orienting scientific progress towards meeting the needs of humankind.” (The World Conference on Science, 1999, held under the auspices of UNESCO and ICSU)
 
+The global landscape is incredibly complex and heterogeneous. Here, we will show  some examples to help illustrate the current state around the world.
+
+### Africa
+
+In Africa, more than 1 million OA articles are currently available in repositories from the top 22 countries (Chilwa and Sife, 2017) 
+
+### Asia
+
+
+### Australia and Pacfic
+
+
+### Europe
+
+
+### South America
+
+
+### North America
+
+
+
 While the overall state of the scholarly publishing industry is dominated by major western publishing houses, there are a number of high-level international collaborations that challenge this [oligopolistic landscape](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127502).
 
 For example:

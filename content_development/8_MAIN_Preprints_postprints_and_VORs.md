@@ -1,11 +1,6 @@
 ## Preprints, postprints, and VORs <a name="preprints"></a>
 
-Below from Wikipedia, needs editing:
-The first free scientific online archive was arXiv.org, started in 1991, initially a preprint service for physicists, initiated by Paul Ginsparg. Self-archiving has become the norm in physics, with some sub-areas of physics, such as high-energy physics, having a 100% self-archiving rate. The prior existence of a "preprint culture" in high-energy physics is one major reason why arXiv has been successful. arXiv now includes papers from related disciplines including computer science, mathematics, nonlinear sciences, quantitative biology, quantitative finance, and statistics. However, computer scientists mostly self-archive on their own websites and have been doing so for even longer than physicists. arXiv now includes postprints as well as preprints. The two major physics publishers, American Physical Society and Institute of Physics Publishing, have reported that arXiv has had no effect on journal subscriptions in physics; even though the articles are freely available, usually before publication, physicists value their journals and continue to support them.
-
-https://arxiv.org/abs/physics/0102004
-
-Some useful definitions here include:
+Some useful definitions to start things off here include:
 
 * **Preprint** - A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
 
@@ -21,6 +16,31 @@ Some useful definitions here include:
 
 * **Eprint** - A digital version of a research document available online for a repository.
 
+### The case for preprints
+
+The first experiments with preprints go all the way back to the 1960s ([Till, 2001](https://arxiv.org/abs/physics/0102004)). Starting with the biomedical sciences, ths was before the internet so part of a paper-based preprint culture. The first free scientific online archive was [arXiv](https://arxiv.org/), started in 1991, initially a preprint service for physicists, initiated by Paul Ginsparg. Since its origins, self-archiving has now become the norm in many sub-fields of physics, especially high-energy physics. Now, arXiv now includes papers from related disciplines including computer science, mathematics, nonlinear sciences, quantitative biology, quantitative finance, and statistics. arXiv now also includes postprints as well as preprints.
+
+The main power of preprints is that they enable aaurthors to make their manuscripts freely and publicly available in parallel to, or before, submitting them to journals for formal peer review. As such, they help to communicate research results much faster than traditional methods ([Desjardins-Proulx et al., 2013](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Desjardins-Proulx%20et%20al.%2C%202013.PDF)). Other advantages include:
+
+* Rapid dissemination to a wider audience
+
+* Immediate visibility of research
+
+* Demonstration of research progress, particularly for early-career researchers
+
+* Availability for wider feedback from the research community
+
+* Establishment of precedence or intellectual priority for research discoveries
+
+* Potential citation advantage due to earlier and wider availability of research
+
+Virtually all major publishers, including Elsevier, PLOS, Springer Nature, PNAS, and Wiley are friendly towards preprints. They allow them to be posted without compromising the publishability of authors' work in their journals. Therefore preprints are an excellent way to give researchers an advantage by increasing their publication record and citations.
+
+Many publishers also allow preprints to be updated with the peer review or accepted manuscripts too, often even at the time of acceptance. Check journal policies either on their websites or SHERPA/RoMEO to see what you are permitted to share. A 2013 study by [Björk et al](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Bjork%20et%20al.%2C%202013.pdf) found that the 'green OA' coverage based on the sharing of these accepted manuscripts (postprints) was only around 12%, although with a lot of disciplinary variation. These were often shared in institutional repositories, but also on personal webpages of authors.
+
+[INSERT INFOGRAPHIC FROM HERE https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972]
+
+A recent analysis of preprints from biorXiv by [Abdill and Blekhman](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Abdill%20and%20Blekhman%2C%202019.pdf) demonstrated that, as of 2017, around two-thirds of preprints shared there ultimately end up in peer reviewed jorunals. Furthermore, articles shared as preprints tended to end up in 'higher impact' journals and receive more downloads.
 
 ### Examples of preprint servers/platforms
 
