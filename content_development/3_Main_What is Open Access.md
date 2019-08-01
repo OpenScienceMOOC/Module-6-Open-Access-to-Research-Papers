@@ -50,6 +50,12 @@ Shortly after this new wave of OA, the non-OA publishers began to get worried, s
 
 Following these developments, OA started to become more and more popular, and eventually starting hitting public policy at a global level. The latest big development here is that of "[Plan S](https://www.scienceeurope.org/wp-content/uploads/2018/09/Plan_S.pdf)", announced in September 2018. Here, 11 European research funders, organised under cOAlition S, announced the plan, which requires all research outputs based on funding from these organisations to be published in full OA journals.
 
+Things are not growing evenly, however. A recent study by [Severin et al., 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Severin%20et%20al.%2C%202018.pdf) found that different research disciplines are varying in their attitudes towards, and uptake of, OA, depending on the tools available to them and the history of OA in their respective fields. 
+
+Either way, there is much more work to be done! The most recent analysis of the OA landscape by [Piwowar et al., 2018]() found that, while the rate of OA growth is accelerating, even now only around 28% of the global research literature is OA in some form.
+
+[insert gowth fig from Piwowar here]
+
 For an interactive timeline of the Open Access movement, check out [this cool design by Tobias Steiner](https://blog.flavoursofopen.science/timeline/).
 
 For more on the history of Open Access, this [Wikipedia article](https://en.wikipedia.org/wiki/History_of_open_access) has a lot more detail and further reading.

@@ -13,7 +13,7 @@ While the most commonly known method here is that of APCs, or "article-processin
 
 There are many publishers that started up as OA-only publishers (or "born OA" publishers), such as [PLOS](http://plos.org/), [Hindawi](http://hindawi.com/), [Frontiers](http://frontiersin.org/), [MDPI](http://mdpi.com/) and [BioMed Central](https://www.biomedcentral.com/). These big commercial publishers are almost exclusively funded through these APCs.
 
-But what exactly is an APC? These are author-facing fees that are designed to cover the cost of publication, or processing, of an article. This can include both direct processing costs, as well as indirect costs, such as those of running a company. Often, these fees are not paid by the authors themselves, but come from grants or libraries if based at a research institute.
+But what exactly is an APC? [Peter Suber](https://openaccesseks.mitpress.mit.edu/) defined an APC as “A fee charged by some OA journals when accepting an article for publication, in order to cover the costs of production. It’s one way to cover production costs without charging readers and erecting access barriers. While the bill goes to the author, the fee is usually paid by the author’s funder or employer, not by the author out of pocket.”
 
 For learned society journals, [in 2007 a study](http://legacy.earlham.edu/~peters/fos/newsletter/11-02-07.htm#list) showed that 83% of OA journals do not charge these publication fees. As of June 2018, only 26% of journals in the Directory of Open Access Journals (DOAJ) required payment of APCs. Another [analysis by Heather Morrison](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) found similar results:
 

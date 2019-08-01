@@ -26,6 +26,9 @@ National inititives include the [Algerian Scientific Journal Platform]() (ASJP)
 
 Regional initiaives include [Nepal Journals Online]() (NEPJOL), which provides full text access to more than 11,000 journal articles.
 
+In the Middle East, [Lujano and Khalifa, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Lujano%20and%20Khalifa%2C%202018.pdf) found that "APCs and submission charges is growing trend in low economic countries, for example: Egypt, Sudan, North Africa States, however in high economic countries
+like Gulf States the authors get paid when publish a paper in a journal."
+
 
 ### Australia and Pacfic
 
@@ -36,6 +39,8 @@ Regional initiaives include [Nepal Journals Online]() (NEPJOL), which provides f
 ### South America
 
 The last 20 years have seen a number of successful initiatives launched in Latin America. This includes the [Latin American Council of Social Sciences]() (CLASCO), which publishes 'diamond OA' journals, supports repositories, and helps develop OA policies at the institutional and national levels. CLASCO collaborates with the [Scientific Electronic Library Online]() (SciELO), a successful cooperative decentralized platform for electronic publishing of OA scholarly journals.
+
+A recent study by [Lujano and Khalifa, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Lujano%20and%20Khalifa%2C%202018.pdf) found that only 5% of journals in Latin America charge either APCs or submission charges. The vast majority of OA publications are publicly funded, thanks to initiatives like those above. Latin American journals in DOAJ represent 19% of total amount of journals indexed by June 2018.
 
 
 ### North America

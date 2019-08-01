@@ -6,13 +6,15 @@ output:
 
 ## Preprints, postprints, and VORs <a name="preprints"></a>
 
-Some useful definitions to start things off here include:
+Some useful [definitions](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Tennant%20et%20al.%2C%202018.pdf) to start things off here include:
 
-* **Preprint** - A manuscript draft that has not yet been subject to formal peer review, distributed to receive early feedback on research from peers.
+* **Preprint** - Version of a research paper, typically prior to peer review and publication in a journal.
 
-* **Postprint** - A manuscript draft after it has been peer reviewed.
+* **Postprint** - Version of a research paper subsequent to peer review (and acceptance), but before any type-setting or copy-editing by the publisher. Also sometimes called a ‘peer reviewed accepted manuscript’.
 
-* **Version of Record (VOR)** - The final version of a manuscript, after peer review and processing by a publishers.
+* **Version of Record (VOR)** - The final published version of a scholarly research paper, after undergoing formatting (and any other additions) by the publisher.
+
+* **e-Print** - Version of a research paper posted on a public server, independently of its status regarding peer-review, publication in print, etc. Preprints, postprints and VORs are forms of e-Prints.
 
 [INSERT 04_open_access_archives.png here; credit: Patrick Hochstenbach, CC BY]
 
@@ -26,21 +28,43 @@ Some useful definitions to start things off here include:
 
 The first experiments with preprints go all the way back to the 1960s ([Till, 2001](https://arxiv.org/abs/physics/0102004)). Starting with the biomedical sciences, ths was before the internet so part of a paper-based preprint culture. The first free scientific online archive was [arXiv](https://arxiv.org/), started in 1991, initially a preprint service for physicists, initiated by Paul Ginsparg. Since its origins, self-archiving has now become the norm in many sub-fields of physics, especially high-energy physics. Now, arXiv now includes papers from related disciplines including computer science, mathematics, nonlinear sciences, quantitative biology, quantitative finance, and statistics. arXiv now also includes postprints as well as preprints.
 
-The main power of preprints is that they enable aaurthors to make their manuscripts freely and publicly available in parallel to, or before, submitting them to journals for formal peer review. As such, they help to communicate research results much faster than traditional methods ([Desjardins-Proulx et al., 2013](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Desjardins-Proulx%20et%20al.%2C%202013.PDF)). Other advantages include:
+At the present though, the perception of preprints is highly contingent on the history of their use in disciplines. For example, there are big differences between physics and the life sciences community, as illustrated by [Neylon et al.., 2017](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Neylon%20et%20al.%2C%202017.pdf) below.
+
+[INSERT NEYLON_preprints here]
+
+The main power of preprints is that they enable authors to make their manuscripts freely and publicly available in parallel to, or before, submitting them to journals for formal peer review. As such, they help to communicate research results much faster than traditional methods - see [Desjardins-Proulx et al., 2013](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Desjardins-Proulx%20et%20al.%2C%202013.PDF) and [Sarabipour et al., 2019](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Sarabipour%20et%20al.%2C%202019.pdf). Other advantages include:
 
 * Rapid dissemination to a wider audience
 
-* Immediate visibility of research
+* Immediate visibility of research and facilitate networking
 
 * Demonstration of research progress, particularly for early-career researchers
 
-* Availability for wider feedback from the research community
+* Availability for wider feedback/review from the research community
 
 * Establishment of precedence or intellectual priority for research discoveries
 
 * Potential citation advantage due to earlier and wider availability of research
 
-Virtually all major publishers, including Elsevier, PLOS, Springer Nature, PNAS, and Wiley are friendly towards preprints. They allow them to be posted without compromising the publishability of authors' work in their journals. Therefore preprints are an excellent way to give researchers an advantage by increasing their publication record and citations.
+* Acclerating training time and optimising research design and quality
+
+* Publishing Open Access even with limited or no funds
+
+* Commenting on preprints for developing peer review skills
+
+* Performing corrections via revised versions
+
+* Publishing of all research findings and conditions
+
+### Concerns with preprints
+
+[Sarabipour et al., 2019](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Sarabipour%20et%20al.%2C%202019.pdf) highlight three major concerns that researchers often raise against preprints. 
+
+1. *Preprints can lead to my research being scooped*. A common misconception. Preprints provide an authoritative timestamp of a discovery, in public, and usually with a DOI, or digital object identifier. Any 'scooping' will be akin to plagiarism, and can be dealt with as such.
+
+2. *Preprinting prevents publication*. Another misconception. Virtually all major publishers, including Elsevier, PLOS, Springer Nature, PNAS, and Wiley are friendly towards preprints. They allow them to be posted without compromising the publishability of authors' work in their journals. Therefore preprints are an excellent way to give researchers an advantage by increasing their publication record and citations.
+
+3. *Preprints have low visibility*. How is publishing more work openly and faster decreasing the visibility of your work? Preprints, and discussions around them, are currently in an exponential growth phase ([Tennant et al., 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Tennant%20et%20al.%2C%202018.pdf)), and this is not likely to stop any time soon. All the [evidence](https://jamanetwork.com/journals/jama/fullarticle/2670247) for now indicates that preprints are good for your online attention and citations.
 
 Many publishers also allow preprints to be updated with the peer review or accepted manuscripts too, often even at the time of acceptance. Check journal policies either on their websites or SHERPA/RoMEO to see what you are permitted to share. A 2013 study by [Björk et al](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Bjork%20et%20al.%2C%202013.pdf) found that the 'green OA' coverage based on the sharing of these accepted manuscripts (postprints) was only around 12%, although with a lot of disciplinary variation. These were often shared in institutional repositories, but also on personal webpages of authors.
 
