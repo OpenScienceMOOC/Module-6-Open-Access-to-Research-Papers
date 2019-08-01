@@ -18,7 +18,13 @@ The global landscape is incredibly complex and heterogeneous. Here, we will show
 
 In Africa, more than 1 million OA articles are currently available in repositories from the top 22 countries ([Chilwa and Sife, 2017](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Chilwa%20and%20Sife%2C%202017.pdf)). Despite its large size, the African continent had only 4.52% of the OA repositories and 0.14% of documents in the OpenDOAR.
 
+African Journals OnLine (AJOL) is the world's largest and preeminent collection of peer-reviewed, African-published scholarly journals. 215 journals out of 521 hosted at AJOL are open access with 75,938 full text articles for download ([Kuchma, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Kuchma%2C%202018.pdf)).
+
+National inititives include the [Algerian Scientific Journal Platform]() (ASJP)
+
 ### Asia
+
+Regional initiaives include [Nepal Journals Online]() (NEPJOL), which provides full text access to more than 11,000 journal articles.
 
 
 ### Australia and Pacfic
@@ -28,6 +34,8 @@ In Africa, more than 1 million OA articles are currently available in repositori
 
 
 ### South America
+
+The last 20 years have seen a number of successful initiatives launched in Latin America. This includes the [Latin American Council of Social Sciences]() (CLASCO), which publishes 'diamond OA' journals, supports repositories, and helps develop OA policies at the institutional and national levels. CLASCO collaborates with the [Scientific Electronic Library Online]() (SciELO), a successful cooperative decentralized platform for electronic publishing of OA scholarly journals.
 
 
 ### North America

@@ -5,6 +5,8 @@ output:
 ---
 ## The cost and economics of Open Access <a name="economics"></a>
 
+[INSERT VIDEO FROM MIKAEL HERE]
+
 Open Access represents a whole different funding game for scholarly journals. While they were typically supported by subscriptions (and often submission fees), meaning only selected people had access, the advent of OA meant that this revenue stream was lost. This means new ones had to be found.
 
 While the most commonly known method here is that of APCs, or "article-processing charges", there are a number of models that can be used to cover journal costs.
@@ -50,5 +52,7 @@ Other innovative ways of covering costs can be seen in [PeerJ](https://peerj.com
 Other low-cost platforms including [PubPub](https://www.pubpub.org/). This system enables anyone to set up their own journal, including all hosting and publishing workflow services including peer review management. It is Open Source, exclusively OA, non-profit, researcher-friendly, and a member of MIT'S [Knowledge Futures Group](https://mitpress.mit.edu/kfg).
 
 The [Free Journal Network](https://freejournals.org/) exists to promote scholarly journals that are run according to the [Fair Open Access Principles](http://fairopenaccess.org/); primarily, journals that are controlled by the scholarly community, and have no financial barriers to readers and authors.
+
+The [SCOAP3](https://scoap3.org/) initiative (Sponsoring Consortium for Open Access Publishing in Particle Physics) launched in 2014, and is possibly one of the world's largest Open Access initiatives! According to [Kohls and Mele (2018)](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Kohls%20and%20Mele%2C%202018.pdf), it has currently helped to publish more than 19,000 OA articles in particle physics, and covering around 90% of the journal-based literature in the field. This is thanks to a 3,000-institute strong consortium that collectively fund articles to 'flip' to OA.
 
 So, we have a complex present economic landscape. It is tied to both the research evaluation system, which is often driven by scholarly journals, the commercial interests of a powerful, private industry, and globally very heterogeneous. The future of it all is quite uncertain at the present.

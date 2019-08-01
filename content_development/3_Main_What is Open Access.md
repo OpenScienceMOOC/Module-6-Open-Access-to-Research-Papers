@@ -18,7 +18,11 @@ The OA movement was/is primarily motivated by the social inequalities created by
 
 Public statements in support of some form of free or equal access to research go back as far as [1964](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA). The Declaration of Helsinki stated that participants in medical studies "are entitled to be informed about the outcome of the study and to share any benefits that result from it." 
 
-Following this, it took almost 3 decades for the concept to gain any real traction. The term "Open Access" itself was first formulated in three public statements made in the 2000s, considered to be pivotal moments in the history of OA. These are the:
+Following this, it took almost 3 decades for the concept to gain any real traction. A study by [Laakso et al., 2011](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Laakso%20et%20al.%2C%202011.PDF) showed that there was a period of very rapid growth of OA publishing between 1993–2009. Since the year 2000, the average annual growth rate was 18% for the number of journals and 30% for the number of articles; much faster than the overall relative rates of growth in all scholarly journals.
+
+[INSERT LAAKSO RATE OF GroWTH IMAGE]
+
+The term "Open Access" itself was first formulated in three public statements made in the 2000s, considered to be pivotal moments in the history of OA. These are the:
 
 * [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in February 2002, launched by the Open Society Institute. 
 

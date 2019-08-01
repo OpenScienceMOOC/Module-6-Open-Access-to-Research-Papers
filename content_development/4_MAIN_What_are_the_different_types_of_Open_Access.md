@@ -26,7 +26,7 @@ Journals which publish OA without charging authors article processing charges (A
 The growth of what is sometimes referred to as "digital piracy" through large-scale copyright infringement has allowed enabled free access to paywalled literature at a massive scale.
 
 **Hybrid OA**
-Hybrid OA journals are those that contain a mixture of OA articles and subscription articles. The journal remains funded by subscriptions, with individual articles being made OA through a publication fee.
+Hybrid OA journals are those that contain a mixture of OA articles and subscription articles. The journal remains funded by subscriptions, with individual articles being made OA through a publication fee. Hybrid OA has been steadily growing since around 2007 ([(Laakso and Bjoerk, 2016)](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Laakso%20and%20Bjork%2C%202016.pdf)), but due to its unsustainability is now becoming widely prohibited by research funders.
 
 As well as the colours, there are also two other generic types of OA that are based on licensing and copyright terms:
 
