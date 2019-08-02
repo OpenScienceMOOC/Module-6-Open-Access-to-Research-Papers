@@ -22,8 +22,6 @@ Some useful [definitions](https://github.com/OpenScienceMOOC/Module-6-Open-Acces
 
 * **Accepted author manuscript** - The version of a manuscript that has been accepted by a publisher for publication.
 
-* **Eprint** - A digital version of a research document available online for a repository.
-
 ### The case for preprints
 
 The first experiments with preprints go all the way back to the 1960s ([Till, 2001](https://arxiv.org/abs/physics/0102004)). Starting with the biomedical sciences, this was before the internet so part of a paper-based preprint culture. The first free scientific online archive was [arXiv](https://arxiv.org/), started in 1991, initially a preprint service for physicists, initiated by Paul Ginsparg. Since its origins, self-archiving has now become the norm in many sub-fields of physics, especially high-energy physics. Now, arXiv now includes papers from related disciplines including computer science, mathematics, nonlinear sciences, quantitative biology, quantitative finance, and statistics. arXiv now also includes postprints as well as preprints.
