@@ -10,7 +10,7 @@ There are a number of different types of platforms or databases when it comes to
 
 The main databases for OA articles and journals are the Directory of Open Access Journals ([DOAJ](https://doaj.org/)) and PubMed Central ([PMC](https://www.ncbi.nlm.nih.gov/pmc/)). In the case of DOAJ, only fully "gold" OA journals are included, whereas PMC also hosts articles from hybrid journals. Databases like this often form the basis for bibliometric studies of the global journal and publishing landscape. 
 
-More recently, F1000 have helped to launch several funder-led OA publishing platforms, This includes [Wellcome Oepn Research](https://wellcomeopenresearch.org/), with the Wellcome Trust (UK), and [Gates Open Research](https://gatesopenresearch.org/), with the Bill and Melinda Gates Foundation (USA). These operate very similarly to the F1000 Research platform, with researchers able to publish their work rapidly and with successive rounds of open peer review.
+More recently, F1000 have helped to launch several funder-led OA publishing platforms, This includes [Wellcome Open Research](https://wellcomeopenresearch.org/), with the Wellcome Trust (UK), and [Gates Open Research](https://gatesopenresearch.org/), with the Bill and Melinda Gates Foundation (USA). These operate very similarly to the F1000 Research platform, with researchers able to publish their work rapidly and with successive rounds of open peer review.
 
 ### European Open Science Cloud
 
@@ -47,4 +47,4 @@ Through a range of tools and practical resources, this international, cross-sect
 
 * [**Dimensions**](https://www.dimensions.ai/): A comprehensive database of research grants, publication, patents, datasets, citations, policy documents, clinical trials, and Altmetric scores.
 
-* [**Quality Open Access Market (QOAM)**]: A marketplace for scientific and scholarly journals which publish articles in OA. Quality scoring of the journals in QOAM is based on academic crowd sourcing; price information includes institutional licensed pricing.
+* [**Quality Open Access Market (QOAM)**](https://www.qoam.eu/): A marketplace for scientific and scholarly journals which publish articles in OA. Quality scoring of the journals in QOAM is based on academic crowd sourcing; price information includes institutional licensed pricing.
