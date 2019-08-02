@@ -20,11 +20,11 @@ In Africa, more than 1 million OA articles are currently available in repositori
 
 African Journals OnLine (AJOL) is the world's largest and preeminent collection of peer-reviewed, African-published scholarly journals. 215 journals out of 521 hosted at AJOL are open access with 75,938 full text articles for download ([Kuchma, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Kuchma%2C%202018.pdf)).
 
-National inititives include the [Algerian Scientific Journal Platform]() (ASJP)
+National initiatives include the [Algerian Scientific Journal Platform](https://www.asjp.cerist.dz/) (ASJP), an electronic publishing platform for Algerian scientific journals developed and managed by the [Research Centre on Scientific and Technical Information](http://cerist.dz/index.php/en/) (CERIST).
 
 ### Asia
 
-Regional initiaives include [Nepal Journals Online]() (NEPJOL), which provides full text access to more than 11,000 journal articles.
+Regional initiatives include [Nepal Journals Online]() (NEPJOL), which provides full text access to more than 11,000 journal articles.
 
 In the Middle East, [Lujano and Khalifa, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Lujano%20and%20Khalifa%2C%202018.pdf) found that "APCs and submission charges is growing trend in low economic countries, for example: Egypt, Sudan, North Africa States, however in high economic countries
 like Gulf States the authors get paid when publish a paper in a journal."
