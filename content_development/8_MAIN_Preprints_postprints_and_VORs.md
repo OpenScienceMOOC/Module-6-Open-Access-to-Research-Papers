@@ -108,7 +108,7 @@ An exciting recent initiative in this space is [Peer Community In](https://peerc
 
 ## But how do I know which copy I can self-archive?
 
-Thankfully, there is a service out there to make your life a little easier, called SHERPA/RoMEO. This is a database of journal self-archiving policies, and is based on a colour code:
+Thankfully, there is a service out there to make your life a little easier, called [SHERPA/RoMEO](http://sherpa.ac.uk/romeo/index.php). This is a database of journal self-archiving policies, and is based on a colour code:
 
 * Green: Journals allow authors to share pre- and postprints
 * Blue: Journals allow authors to share postprints
