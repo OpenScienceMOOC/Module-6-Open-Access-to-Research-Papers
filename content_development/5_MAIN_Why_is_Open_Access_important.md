@@ -28,7 +28,7 @@ In 2017, the World Bank released a [blog post](http://blogs.worldbank.org/voices
 
 * Because OA articles are more visible, they receive anywhere from 25%-250% more citations for OA than Non-OA (NOA) articles in the same journal and year ([Houghton and Sheehan, 2009](http://vuir.vu.edu.au/15221/1/v39_i1_10_-houghton.pdf)).
 
-* Open Access enhances and accelerates the research cycle - where work is published, read, cited and then built upon by other researchers ([Kuri, 2014](http://www.ajms.co.in/sites/ajms2015/index.php/ajms/article/view/329).  
+* Open Access enhances and accelerates the research cycle - where work is published, read, cited and then built upon by other researchers ([Kuri, 2014](http://www.ajms.co.in/sites/ajms2015/index.php/ajms/article/view/329)).  
 
 * By facilitating additional use, OA leads to substantial measurable positive returns on investment returns, in one instance about £58 million to £230 million over 30 years (net present value) ([Beagrie & Houghton, 2014](http://repository.jisc.ac.uk/5568/1/iDF308_-_Digital_Infrastructure_Directions_Report,_Jan14_v1-04.pdf)).
 
