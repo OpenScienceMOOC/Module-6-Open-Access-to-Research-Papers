@@ -15,13 +15,13 @@ There are many publishers that started up as OA-only publishers (or "born OA" pu
 
 But what exactly is an APC? [Peter Suber](https://openaccesseks.mitpress.mit.edu/) defined an APC as “A fee charged by some OA journals when accepting an article for publication, in order to cover the costs of production. It’s one way to cover production costs without charging readers and erecting access barriers. While the bill goes to the author, the fee is usually paid by the author’s funder or employer, not by the author out of pocket.”
 
-For learned society journals, [in 2007 a study](http://legacy.earlham.edu/~peters/fos/newsletter/11-02-07.htm#list) showed that 83% of OA journals do not charge these publication fees. As of June 2018, only 26% of journals in the Directory of Open Access Journals (DOAJ) required payment of APCs. Another [analysis by Heather Morrison](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) found similar results:
+For learned society journals, [a 2007 study](http://legacy.earlham.edu/~peters/fos/newsletter/11-02-07.htm#list) showed that 83% of OA journals do not charge these publication fees. As of June 2018, only 26% of journals in the [Directory of Open Access Journals](https://doaj.org/) (DOAJ) required payment of APCs. Another [analysis by Heather Morrison](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) found similar results:
 
 > As of January 31, 2018, 71% of the 11,001 journals listed in DOAJ do not charge APCs. 28% do charge APCs, and the remainder have no information on APCs.
 
 Therefore, **OPEN ACCESS IS NOT ALL ABOUT APCS**. Just to make that absolutely clear.
 
-### Free is in freedom, not as in beer
+### Free as in freedom, not as in beer
 
 Often, in spite of this, you will hear the rather tedious rhetoric that "Open Access costs money" or "someone has to pay". This is a usually a corporate tagline from a publisher who has had their business model completely threatened by the Web and wants to do everything they can to protect their revenue. We know it costs money. We know it is not free. 
 
