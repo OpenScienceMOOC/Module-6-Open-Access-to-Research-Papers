@@ -38,7 +38,7 @@ like Gulf States the authors get paid when publish a paper in a journal."
 
 ### South America
 
-The last 20 years have seen a number of successful initiatives launched in Latin America. This includes the [Latin American Council of Social Sciences]() (CLASCO), which publishes 'diamond OA' journals, supports repositories, and helps develop OA policies at the institutional and national levels. CLASCO collaborates with the [Scientific Electronic Library Online]() (SciELO), a successful cooperative decentralized platform for electronic publishing of OA scholarly journals.
+The last 20 years have seen a number of successful initiatives launched in Latin America. This includes the [Latin American Council of Social Sciences](https://www.clacso.org/) (CLASCO), which publishes 'diamond OA' journals, supports repositories, and helps develop OA policies at the institutional and national levels. CLASCO collaborates with the [Scientific Electronic Library Online](https://scielo.org/en) (SciELO), a successful cooperative decentralized platform for electronic publishing of OA scholarly journals.
 
 A recent study by [Lujano and Khalifa, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Lujano%20and%20Khalifa%2C%202018.pdf) found that only 5% of journals in Latin America charge either APCs or submission charges. The vast majority of OA publications are publicly funded, thanks to initiatives like those above. Latin American journals in DOAJ represent 19% of total amount of journals indexed by June 2018.
 
@@ -51,13 +51,13 @@ While the overall state of the scholarly publishing industry is dominated by maj
 
 For example:
 
-* **SciELO (Scientific Electronic Library Online)**: A comprehensive approach to full OA journal publishing, involving a number of Latin American countries.
+* [**SciELO (Scientific Electronic Library Online)**](https://scielo.org/en): A comprehensive approach to full OA journal publishing, involving a number of Latin American countries.
 
-* **Bioline International**: A non-profit organization dedicated to helping publishers in developing countries; a collaboration of people in the UK, Canada, and Brazil.
+* [**Bioline International**](http://www.bioline.org.br/): A non-profit organization dedicated to helping publishers in developing countries; a collaboration of people in the UK, Canada, and Brazil.
 
-* **RePEC (Research Papers in Economics)**: A collaborative effort of over 100 volunteers in 45 countries.
+* [**RePEC (Research Papers in Economics)**](http://repec.org/): A collaborative effort of hundreds of volunteers in 101 countries to enhance the dissemination of research in Economics and related sciences.
 
-* **Public Knowledge Project**: Developed the open-source publishing software Open Journal Systems (OJS), which is now in use around the world
+* [**Public Knowledge Project**](https://pkp.sfu.ca/): Developed the open-source publishing software Open Journal Systems (OJS), which is now in use around the world.
 
 * [**African Journals Online (AJOL)**](https://www.ajol.info/): AJOL partners with hundreds of journals from all over the African continent, so that African-origin research output is available to Africans and to the rest of the world. 
 
