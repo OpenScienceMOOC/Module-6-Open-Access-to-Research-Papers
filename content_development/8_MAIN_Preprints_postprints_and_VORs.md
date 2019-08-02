@@ -26,7 +26,7 @@ Some useful [definitions](https://github.com/OpenScienceMOOC/Module-6-Open-Acces
 
 ### The case for preprints
 
-The first experiments with preprints go all the way back to the 1960s ([Till, 2001](https://arxiv.org/abs/physics/0102004)). Starting with the biomedical sciences, ths was before the internet so part of a paper-based preprint culture. The first free scientific online archive was [arXiv](https://arxiv.org/), started in 1991, initially a preprint service for physicists, initiated by Paul Ginsparg. Since its origins, self-archiving has now become the norm in many sub-fields of physics, especially high-energy physics. Now, arXiv now includes papers from related disciplines including computer science, mathematics, nonlinear sciences, quantitative biology, quantitative finance, and statistics. arXiv now also includes postprints as well as preprints.
+The first experiments with preprints go all the way back to the 1960s ([Till, 2001](https://arxiv.org/abs/physics/0102004)). Starting with the biomedical sciences, this was before the internet so part of a paper-based preprint culture. The first free scientific online archive was [arXiv](https://arxiv.org/), started in 1991, initially a preprint service for physicists, initiated by Paul Ginsparg. Since its origins, self-archiving has now become the norm in many sub-fields of physics, especially high-energy physics. Now, arXiv now includes papers from related disciplines including computer science, mathematics, nonlinear sciences, quantitative biology, quantitative finance, and statistics. arXiv now also includes postprints as well as preprints.
 
 At the present though, the perception of preprints is highly contingent on the history of their use in disciplines. For example, there are big differences between physics and the life sciences community, as illustrated by [Neylon et al.., 2017](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Neylon%20et%20al.%2C%202017.pdf) below.
 
@@ -46,7 +46,7 @@ The main power of preprints is that they enable authors to make their manuscript
 
 * Potential citation advantage due to earlier and wider availability of research
 
-* Acclerating training time and optimising research design and quality
+* Accelerating training time and optimising research design and quality
 
 * Publishing Open Access even with limited or no funds
 
@@ -70,7 +70,7 @@ Many publishers also allow preprints to be updated with the peer review or accep
 
 [INSERT INFOGRAPHIC FROM HERE https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972]
 
-A recent analysis of preprints from biorXiv by [Abdill and Blekhman](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Abdill%20and%20Blekhman%2C%202019.pdf) demonstrated that, as of 2017, around two-thirds of preprints shared there ultimately end up in peer reviewed jorunals. Furthermore, articles shared as preprints tended to end up in 'higher impact' journals and receive more downloads.
+A recent analysis of preprints from biorXiv by [Abdill and Blekhman](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Abdill%20and%20Blekhman%2C%202019.pdf) demonstrated that, as of 2017, around two-thirds of preprints shared there ultimately end up in peer reviewed journals. Furthermore, articles shared as preprints tended to end up in 'higher impact' journals and receive more downloads.
 
 ### Examples of preprint servers/platforms
 
@@ -88,7 +88,7 @@ Here, platforms that end with "rXiv" of some sort are pronounced "archive" - the
 
 * [**PrePubMed**](http://www.prepubmed.org/) - A platform that indexes preprints from arXiv q-bio, PeerJ Preprints, bioRxiv, F1000Research, preprints.org, The Winnower, Nature Precedings, and Wellcome Open Research.
 
-* [**preLights**](https://prelights.biologists.com/) - A service from the biological community that highlights specific prepritns.
+* [**preLights**](https://prelights.biologists.com/) - A service from the biological community that highlights specific preprints.
 
 A really useful initiative in this space too is [ASAPbio](https://asapbio.org/). This is a researcher-driven non-profit promoting transparency and innovation in life science communication.
 
