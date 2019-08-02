@@ -24,7 +24,7 @@ National initiatives include the [Algerian Scientific Journal Platform](https://
 
 ### Asia
 
-Regional initiatives include [Nepal Journals Online]() (NEPJOL), which provides full text access to more than 11,000 journal articles.
+Regional initiatives include [Nepal Journals Online](https://www.nepjol.info/) (NepJOL) is a service to provide access to Nepalese published research, and increase worldwide knowledge of indigenous scholarship. It covers the full range of academic disciplines and provides full text access to more than 17,000 journal articles.
 
 In the Middle East, [Lujano and Khalifa, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Lujano%20and%20Khalifa%2C%202018.pdf) found that "APCs and submission charges is growing trend in low economic countries, for example: Egypt, Sudan, North Africa States, however in high economic countries
 like Gulf States the authors get paid when publish a paper in a journal."
