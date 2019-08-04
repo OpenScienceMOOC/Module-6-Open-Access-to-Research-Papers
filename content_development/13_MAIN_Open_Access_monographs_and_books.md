@@ -20,6 +20,7 @@ This is not to say, though, that OA books and monographs do not exist; there hav
 ---
 
 [Sort through this list for further content]
+* https://er.educause.edu/articles/2019/5/open-access-monographs-new-tools-more-access
 * https://training.parthenos-project.eu/
 * https://genr.eu/wp/humanities-progressing-in-open-science/
 * https://dariahopen.hypotheses.org/
