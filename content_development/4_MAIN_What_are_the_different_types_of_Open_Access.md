@@ -1,3 +1,9 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
+
 ## What are the different types of Open Access <a name="types"></a>
 
 Different 'types' of Open Access  are currently commonly described using a simple colour system. The most commonly recognised are "green" and "gold" OA, among a number of others terms that are also used for additional models, each with a specific [definition](http://www.righttoresearch.org/resources/OpenResearchGlossary/).
@@ -17,10 +23,12 @@ Journals which publish OA without charging authors article processing charges (A
 > Fun fact: 71% of the 11,001 journals listed in the Directory for Open Access Journals (DOAJ) do not charge APCs (via [Heather Morrison](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/)).
 
 **Black OA**
-The growth of what is sometimes referred to as "digital piracy" through large-scale copyright infringement has allowed enabled free access to paywalled literature at a massive scale.
+The growth of what is sometimes referred to as "digital piracy" through large-scale copyright infringement has enabled free access to paywalled literature at a massive scale. One of the key players here is [Sci-Hub](http://www.sci-hub.tw/), a portal that currently hosts around 74 million research articles. There is an ongoing debate about the ethical versus legal implications of such websites. A recent study by [Till et al., 2019](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Till%20et%20al.%2C%202019.pdf) found that, as a result of global knowledge inequity (i.e., closed access), there was a strong relationship between country of origin and the rate of downloads of medical literature from Sci-Hub.
+
+[INSERT sci_hub_downloads from Till et al 2019]
 
 **Hybrid OA**
-Hybrid OA journals are those that contain a mixture of OA articles and subscription articles. The journal remains funded by subscriptions, with individual articles being made OA through a publication fee.
+Hybrid OA journals are those that contain a mixture of OA articles and subscription articles. The journal remains funded by subscriptions, with individual articles being made OA through a publication fee. Hybrid OA has been steadily growing since around 2007 ([(Laakso and Bjoerk, 2016)](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Laakso%20and%20Bjork%2C%202016.pdf)), but due to its unsustainability is now becoming widely prohibited by research funders.
 
 As well as the colours, there are also two other generic types of OA that are based on licensing and copyright terms:
 

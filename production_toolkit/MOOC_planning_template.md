@@ -50,16 +50,16 @@ Red: Launch date in danger
 |  Find existing key resources  | Yes    |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2019/06/05  | |
 |  Write audio/video scripts   |  Pending  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | |
 |  Review all learning resources  |   Pending  |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  |   | |
-|  Finalise all scripts   |     |    |   | |
-|  Copyright strategy  |     |    |   | |
+|  Finalise all scripts   |   Pending  |    |   | |
+|  Copyright strategy  |   Pending  |    |   | |
 | **Recording and editing**  |                   |           |                 |                    |
-|  Record on location/in studio  |    |    |   | |
-|  Edit all audio/visual material  |     |    |   | |
+|  Record on location/in studio  |  In progress  |    |   | |
+|  Edit all audio/visual material  |  In progress   |    |   | |
 | **Internal reviewing**  |                   |           |                 |                    |
 |  Cross-check and review content  |     |    |   | |
 |  Checks from Steering Committee  |     |    |   | |
 | **External testing and review**  |         |           |           |                    |
-|  All reviewing conducted via GitHub  |     |    |   | |
+|  All reviewing conducted via GitHub  |  In progress   |    |   | |
 |  Existing channels from communications strategy  |     |    |   | |
 | **Internal reviewing and finalisation**  |           |           |                 |              |
 |  Cross-review and check content  |     |    |   | |
@@ -71,8 +71,8 @@ Red: Launch date in danger
 |  Team member and guest lecturer agreements  |   Pending  |    |   | |
 |  Team member and guest lecturer profiles  |     |    |   | |
 |  Course readings acquired  |  Yes   |  ![Green](https://img.shields.io/badge/Status-text-green.svg)  | 2019/06/05  | |
-|  Port content to selected platform  |     |    |   | |
-|  All content deposited in the Open Science Framework |     |    |   | |
+|  Port content to selected platform  |  In progress   |    |   | |
+|  All content deposited in the Open Science Framework/Zenodo |   In progress  |    |   | |
 | **Promotion**  |           |           |                 |              |
 |  Content and communication calendar/strategy/timeline  |     |    |   | |
 |  Identify relevant channels (mailing lists, social media and hashtags, organisations, individuals, websites, conferences)  |  Pending   |    |   | |

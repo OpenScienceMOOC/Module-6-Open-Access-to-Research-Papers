@@ -27,6 +27,7 @@ Making scholarly research outputs openly available to everyone is simple, legal,
 * Britta Nölte - Aktivseniorin
 * Andy  Nobes - Socratic Goldfish
 * Josmel Pacheco-Mendoza - Regulus
+* George Macgregor - Repository Revolutionary
 
 ## Key documents <a name="Key documents"></a>
 
