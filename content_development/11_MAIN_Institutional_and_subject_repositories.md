@@ -42,6 +42,8 @@ One of the unique features of repositories is that they often support a wide var
 
 The repository software, upon which the various flavours are based, are typically open source. As well as enabling facilitating their development in line with Open Access objectives, their open nature has meant that they have been  and has been developed to interoperate with as many systems as possible. 
 
+##diagram to go here - g3om4c## 
+
 Digital preservation
 
 persistent access
