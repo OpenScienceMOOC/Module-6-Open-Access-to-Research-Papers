@@ -40,10 +40,10 @@ As instruments open science, the benefits of repositories are their ability to s
 
 * **Discovery:** One of the unique features of repositories is that they often support a wide variety of technical protocols that enable discovery tools, from generic academic search tools such as [Google Scholar](https://scholar.google.com/) to more specialist tools such as [CORE](https://core.ac.uk/) or [BASE](https://www.base-search.net/), [DS Dimensions](https://www.dimensions.ai/) or [Lens.org](https://www.lens.org/), to interoperate with repositories. This allows these discovery tools to learn about the research outputs contained in repositories in a way these systems prefer, but also enables these systems to direct their users to the research which repositories holds. Repositories are therefore very good tools for enhancing the discovery and dissemination of the research papers which have been deposited in the repository.
 
-The repository software, upon which the various flavours are based, are typically open source. As well as facilitating their development in line with Open Access objectives, their open nature has meant that they have been developed to interoperate with as many systems within the wider open scholarly communications infrastructure.
-
-Repository systems are also central to new in-browser Open Access tools such as Unpaywall, CORE Discovery and the Open Access Button, allowing users to discover openly available research papers whenever they encounter a paywall.
-
+	The repository software, upon which the various flavours are based, are typically open source. As well as facilitating their development in line with Open Access objectives, their open nature has meant that they have been developed to interoperate with as many systems within the wider open scholarly communications infrastructure.
+	
+	Repository systems are also central to new in-browser Open Access tools such as Unpaywall, CORE Discovery and the Open Access Button, allowing users to discover openly available research papers whenever they encounter a paywall.
+	
 ![Indicative discovery potential of open repositories](images/repository-diagram-MOOC.jpg?raw=true)
 
 * **Digital preservation and persistence:** Repositories are generally managed by libraries or affiliated communities and have a commitment to ensuring long-term access to content deposited in the repository. This includes ensuring deposits are digitally preserved and maintained over time, thereby ensuring persistence in content access over time. This concept of persistence is highly important for ensuring the verifiability of the scholarly record as scholarly publications become entirely digital.
