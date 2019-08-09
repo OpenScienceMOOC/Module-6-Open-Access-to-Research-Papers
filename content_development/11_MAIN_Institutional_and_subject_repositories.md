@@ -44,7 +44,7 @@ The repository software, upon which the various flavours are based, are typicall
 
 Repository systems are also central to new in-browser Open Access tools such as Unpaywall, CORE Discovery and the Open Access Button, allowing users to discover openly available research papers whenever they encounter a paywall.
 
-##diagram to go here - g3om4c## 
+![Indicative discovery potential of open repositories](images/repository-diagram-MOOC.jpg?raw=true)
 
 * **Digital preservation and persistence:** Repositories are generally managed by libraries or affiliated communities and have a commitment to ensuring long-term access to content deposited in the repository. This includes ensuring deposits are digitally preserved and maintained over time, thereby ensuring persistence in content access over time. This concept of persistence is highly important for ensuring the verifiability of the scholarly record as scholarly publications become entirely digital.
 

@@ -32,7 +32,7 @@ There are a number of different types (or flavour) of Open Access repository and
 
 As instruments open science, the benefits of repositories are their ability to support the many objectives of Open Access.
 
-* **Universal access:** Repositories can support Open Access by providing an open and free-at-the-point-of-use digital platform for researchers to upload, deposit and publish their work outside of the normal scholarly publications system. This openness enhances the public value of their research because all users, irrespective of their means, can access that research. In other words, an article published in a journal may only be available to a small number of subscribers, but the very same article is available to all when it is made available via a repository.  
+* **Universal access:** Repositories can support Open Access by providing an open and free-at-the-point-of-use digital platform for researchers to upload, deposit and publish their work outside of the normal scholarly publications system. This openness enhances the public value of their research because all users, irrespective of their means, can access that research. In other words, an article published in a journal may only be available to a small number of subscribers if it sits behind a paywall, but the very same article is available to all when it is made available via a repository.  
 
 * **Equity in Open Access publishing:** As we have noted in other areas of this module, researchers' ability to pursue Gold Open Access is severely restricted by their access to funding in order to pay the necessary article processing charges (APCs) levied by some publishers. This risks creating a 'digital divide' among scholars and disenfranchising many from participating in scholarly discourse. There are also concerns that Gold OA is unscalable and too costly as a means of providing universal OA. Open Access via repositories, or Green OA, therefore provides a free avenue to OA and one which helps to balance the costs of delivering it.     
 
@@ -44,7 +44,7 @@ The repository software, upon which the various flavours are based, are typicall
 
 Repository systems are also central to new in-browser Open Access tools such as Unpaywall, CORE Discovery and the Open Access Button, allowing users to discover openly available research papers whenever they encounter a paywall.
 
-##diagram to go here - g3om4c## 
+![Indicative discovery potential of open repositories](images/repository-diagram-MOOC.jpg?raw=true)
 
 * **Digital preservation and persistence:** Repositories are generally managed by libraries or affiliated communities and have a commitment to ensuring long-term access to content deposited in the repository. This includes ensuring deposits are digitally preserved and maintained over time, thereby ensuring persistence in content access over time. This concept of persistence is highly important for ensuring the verifiability of the scholarly record as scholarly publications become entirely digital.
 
