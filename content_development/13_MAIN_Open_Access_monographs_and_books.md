@@ -6,13 +6,18 @@ output:
 
 ## Open Access monographs and books <a name="monographs"></a>
 
-While this form of Open Access publication might not be the obvious choice for STEM researchers, the Social Sciences and Humanities (SSH) heavily depend on monographs and edited collections. Monographs still are a requirement for tenure and promotion in the SSH fields.
+While this form of Open Access publication might not be the obvious choice for STEM researchers, the Social Sciences and Humanities (SSH) heavily depend on monographs and edited collections. E.g. publication of a monograph still is a requirement for tenure and promotion in the SSH fields.
 
 But still, OA book publishing has long trailed behind the more vibrant field of OA journal publications, due to a variety of reasons including the slow uptake of e-book technology in the fields, as well as a somewhat different business model for books compared to what may be perceived as a more easily streamlineable output format of serialized journal content.
 
 This is not to say, though, that OA books and monographs do not exist; there have been plenty of exciting new developments in the realm of OA book publishing over the last few years.
 
 [tbc... ]
+
+See e.g.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yp0Jko0ZBcE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 [Note include the video from the OLH here, and Erzsebet and co]

@@ -1,13 +1,13 @@
 ## Module 6: Initiate and plan
 
 ### Define the target groups
-   
+
    - Virtually all researchers
    - Graduate and undergraduate students
    - Librarians, trainers, advocates
 
 ### Refine the learning objectives and outcomes
-   
+
 1. The researcher will become familiar with the history of scholarly publishing, and development of the present Open Access landscape.
 1. The researcher will gain a multi-stakeholder insight into Open Access, and be able to convey a balanced overview of the perceived advantages and disadvantages associated with Open Access publishing.
 1. The researcher will be able to describe some of the complexities of the current the Open Access landscape, including allowances for self-archiving and embargoes, copyright transfer, and publishing contracts.
@@ -16,7 +16,7 @@
 1. Researchers will be able to describe the current ebb and flow in the debates around preprints, and be able to locate and use relevant disciplinary preprint platforms.
 1. Researchers will be able to use services like ImpactStory to track the proportion of their research that is Open Access.
 
-   
+
 ### Design the course outline (including who to ask to get video snippets from)
 
 * What is Open Access
@@ -54,7 +54,7 @@
 
 * Pre-registration
   - Lisa DeBruine
-  
+
 * Open Access and discoverability
   - Peter Kraker
 
@@ -65,32 +65,35 @@
   - Production start: June 2019
   - Draft of first scripts: June 2019
   - Draft of first textual content: June 2019
-  - Recording and editing: 
+  - Recording and editing:
   - Designing practical exercises:
   - Finalisation of content:
   - Check with Steering Committee:
   - Release for beta testing:
-   
-   
+
+
 ### Identify promotion channels
 
  - Relevant Twitter handles:
- 
+
 * [LIBER](https://twitter.com/LIBEReurope)
 * [EIFL](https://twitter.com/EIFLnet)
 * [SPARC EU](https://twitter.com/sparc_eu)
 * [R2RC](https://twitter.com/R2RC)
 * [FORCE11](https://twitter.com/force11rescomm)
-* [OpenAire](https://twitter.com/OpenAIRE_eu)
+* [OpenAIRE](https://twitter.com/OpenAIRE_eu)
 * [OpenUP](https://twitter.com/projectopenup)
 * [The Carpentries](https://twitter.com/thecarpentries)
 * [Creative Commons](https://twitter.com/creativecommons)
 * [FOSTER](https://twitter.com/fosterscience)
 * [Mozilla Open Leaders](https://twitter.com/mozopenleaders)
 * [OKFN](https://twitter.com/OKFN)
+* [EOSC Portal](https://twitter.com/eoscportal)
+* [EOSC Secretariat](https://twitter.com/eoscsecretariat)
+* [EOSC-Hub](https://twitter.com/eosc_eu)
 
  - Mailing lists (note that some of these require subscription to post to):
- 
+
 * [Schol Comm](mailto:scholcomm@lists.ala.org)
 * [Open Science](mailto:open-science@lists.okfn.org)
 * [GOAL](mailto:goal@eprints.org)
@@ -104,4 +107,3 @@
 * [Open Education](mailto:open-education@lists.okfn.org)
 * [Open Humanities](mailto:open-humanities@lists.okfn.org)
 * [EURODOC open science](mailto:open-science@eurodoc.net)
-
