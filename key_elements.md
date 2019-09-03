@@ -1,4 +1,4 @@
-**Learning Objectives**: 
+**Learning Objectives**:
 
 *LO6a: Understand the allowances for self-archiving in publishing contracts, including issues to do with copyright, licensing, article versions, availability, embargoes, and the types of outlets for self-archiving (knowledge).*
 
@@ -16,7 +16,7 @@
 
 * Pre-prints, post-prints, and versions of record (VOR).
 
-* Different types of Open Access: gold, green, [diamond/platinum](https://www.google.com/url?q=https://openscience.uni-bielefeld.de/1013/what-is-platinum-open-access&sa=D&ust=1496297601957000&usg=AFQjCNFCmRz4Ub5JSo_23w3OWvdz5B-O8Q), black.
+* Different types of Open Access: gold, green, [diamond/platinum](https://openscience.uni-bielefeld.de/1013/what-is-platinum-open-access), black.
 
 * The cost and economics of Open Access.
 
@@ -61,7 +61,13 @@
     * [ESSOAr](https://www.essoar.org/) (Earth Sciences).
 
     * [Cogprints](http://www.cogprints.org/) (Psychology, Neuroscience and Linguistics).
-    
+
+    * [SocArXiv](https://socopen.org/welcome/) (meta archive for the social sciences)
+
+    * [MediArXiv](https://mediarxiv.com/) (archive for media, film, & communication studies)
+
+    * [BodoArXiv](https://bodoarxiv.org/) (archive for medieval studies)
+
 * [ZeroDivZero](https://zerodivzero.com) Open conference paper platform for math, science, and engineering conferences.
 
 * [CORE](https://core.ac.uk/), an aggregator of 125 million Open Access articles.
@@ -81,7 +87,7 @@
     * [Frenxiv](https://frenxiv.org/).
 
     * [INA-Rxiv](https://osf.io/preprints/inarxiv/).
-    
+
     * See also the [Global Scholarly Publishing sources list](https://docs.google.com/document/d/1ilW5ggwq4G5po_uCMFaBt3exFnrI5oDvf-5UGuHhXGg/edit#heading=h.4is6uhw52jgp).
 
 * [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php) - Publisher Copyright Policies and Self-Archiving.
@@ -96,7 +102,7 @@
 
 * Open Access publishers:
 
-    * [MDPI](http://www.mdpi.com/), [F1000](https://f1000research.com/), [Hindawi](https://www.hindawi.com/), [Cogent OA](https://www.cogentoa.com/), [Open Library of Humanities](https://olh.openlibhums.org/), [BioMed Central](https://www.biomedcentral.com/journals), [eLIFE](https://elifesciences.org/), [Frontiers](https://www.frontiersin.org/), [PLOS](https://www.plos.org/). 
+    * [MDPI](http://www.mdpi.com/), [F1000](https://f1000research.com/), [Hindawi](https://www.hindawi.com/), [Cogent OA](https://www.cogentoa.com/), [Open Library of Humanities](https://olh.openlibhums.org/), [BioMed Central](https://www.biomedcentral.com/journals), [eLIFE](https://elifesciences.org/), [Frontiers](https://www.frontiersin.org/), [PLOS](https://www.plos.org/).
 
 * [Open Knowledge Maps](https://openknowledgemaps.org/).
 
@@ -225,7 +231,7 @@
 
 * [Knowledge Unlatched](http://www.knowledgeunlatched.org/).
 
-* [Compact on Open-Access Publishing Equity](http://www.oacompact.org/). 
+* [Compact on Open-Access Publishing Equity](http://www.oacompact.org/).
 
 * [Quality Open Access Market](https://www.qoam.eu/).
 
@@ -287,13 +293,13 @@
 
     * Check with [Dissem.in](https://dissem.in/) which of your papers can be made Open Access via self-archiving.
 
-    * Self-archive one paper (can be previously published) or share a pre-print to an archive. 
+    * Self-archive one paper (can be previously published) or share a pre-print to an archive.
 
     * Make sure to identify and include all relevant metadata (e.g. publisher requires citation with a URL to the final published version).
 
 * Check ImpactStory to see the impact of your research outputs.
 
-    * What can be improved? 
+    * What can be improved?
 
     * What happens to your Open Access score when you self-archive your papers?
 

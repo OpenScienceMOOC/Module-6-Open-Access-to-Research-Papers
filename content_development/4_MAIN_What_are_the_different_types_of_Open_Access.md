@@ -9,7 +9,7 @@ output:
 Different 'types' of Open Access  are currently commonly described using a simple colour system. The most commonly recognised are "green" and "gold" OA, among a number of others terms that are also used for additional models, each with a specific [definition](http://www.righttoresearch.org/resources/OpenResearchGlossary/).
 
 **Gold OA**
-The publisher makes all articles and related content available for free immediately on the journal's website. In such publications, articles are licensed for sharing and reuse via Creative Commons licenses or equivalents.
+The publisher makes all articles and related content available for free immediately on the journal's website. In such publications, articles are licensed for sharing and reuse via Creative Commons licenses or equivalents. The difference between *Gold* and *Diamond/Platinum* (see below) is that usually, Gold OA comes with author- or institution-facing per-article fees, the APCs (article processing charges).
 
 **Green OA**
 Also commonly called "self-archiving". After peer review through a traditional journal, the author posts the accepted manuscript to a website, such as an institutional or subject-based repository.

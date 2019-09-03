@@ -10,7 +10,7 @@ Open Access is everywhere, in virtually every country around the world. Even [UN
 
 > Equal access to science is not only a social and ethical requirement for human development, but also essential for realizing the full potential of scientific communities worldwide and for orienting scientific progress towards meeting the needs of humankind.” (The World Conference on Science, 1999, held under the auspices of UNESCO and ICSU)
 
-The global landscape is incredibly complex and heterogeneous. Here, we will show  some examples to help illustrate the current state around the world.
+The global landscape is incredibly complex and heterogeneous. Here, we will show some examples to help illustrate the current state around the world.
 
 [insert continental_OA figure from Chilwa and Sife]
 
@@ -59,7 +59,7 @@ For example:
 
 * [**Public Knowledge Project**](https://pkp.sfu.ca/): Developed the open-source publishing software Open Journal Systems (OJS), which is now in use around the world.
 
-* [**African Journals Online (AJOL)**](https://www.ajol.info/): AJOL partners with hundreds of journals from all over the African continent, so that African-origin research output is available to Africans and to the rest of the world. 
+* [**African Journals Online (AJOL)**](https://www.ajol.info/): AJOL partners with hundreds of journals from all over the African continent, so that African-origin research output is available to Africans and to the rest of the world.
 
 * [**REDALYC**](http://www.redalyc.org/home.oa): A bibliographic database and a digital library of OA journals, supported by the Universidad Aut?noma del Estado de M?xico with the help of numerous other higher education institutions and information systems.
 

@@ -6,15 +6,15 @@ output:
 
 ## Open Access and discoverability <a name="discoverability"></a>
 
-Google Scholar is probably pretty much every researcher's go to choice for academic search engine. And while it does a pretty good job of letting you know if you have access to a PDF or not, what it often does not tell you is whether these articles are in violation of copyright or not.
+Google Scholar is probably pretty much every researcher's go-to choice for academic search engines. And while it does a pretty good job of letting you know if you have access to a PDF or not, what it often does not tell you is whether these articles are in violation of copyright or not.
 
-Open Access, true OA, articles do not violate copyright. And they can be more easily discovered and re-used as part of this.
+Open Access - true OA - articles do not violate copyright. And they can be more easily discovered and re-used as part of this.
 
 There are now a cool array of what we might call 'open discovery engines' that help you to discover OA content amidst the millions of articles out there.
 
 For example, [Open Knowledge Maps](https://openknowledgemaps.org/) provides a visual network-like interface integrated with [BASE](https://www.base-search.net/) (all disciplines) and [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) (life sciences).
 
-[INCLUDE VIDEO FROM PETER]
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/J8QMa8K1daU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Other alternative discovery platforms include [ScienceOpen](https://www.scienceopen.com/), which we further discuss in the section on scholarly collaboration platforms.
 

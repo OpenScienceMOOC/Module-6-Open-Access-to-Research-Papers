@@ -1,7 +1,7 @@
 ## Module 5: Design
 
    1. Identify key resources (including those already gathered)
-   
+
 **Tools**
 
 * [Think, Check, Submit](http://thinkchecksubmit.org/) and [Cofactor journal selector tool](http://cofactorscience.com/journal-selector).
@@ -23,7 +23,13 @@
     * [ESSOAr](https://www.essoar.org/) (Earth Sciences).
 
     * [Cogprints](http://www.cogprints.org/) (Psychology, Neuroscience and Linguistics).
-    
+
+    * [SocArXiv](https://socopen.org/welcome/) (meta archive for the social sciences)
+
+    * [MediArXiv](https://mediarxiv.com/) (archive for media, film, & communication studies)
+
+    * [BodoArXiv](https://bodoarxiv.org/) (archive for medieval studies)
+
 * [ZeroDivZero](https://zerodivzero.com) Open conference paper platform for math, science, and engineering conferences.
 
 * [CORE](https://core.ac.uk/), an aggregator of 125 million Open Access articles.
@@ -43,7 +49,7 @@
     * [Frenxiv](https://frenxiv.org/).
 
     * [INA-Rxiv](https://osf.io/preprints/inarxiv/).
-    
+
     * See also the [Global Scholarly Publishing sources list](https://docs.google.com/document/d/1ilW5ggwq4G5po_uCMFaBt3exFnrI5oDvf-5UGuHhXGg/edit#heading=h.4is6uhw52jgp).
 
 * [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php) - Publisher Copyright Policies and Self-Archiving.
@@ -58,7 +64,7 @@
 
 * Open Access publishers:
 
-    * [MDPI](http://www.mdpi.com/), [F1000](https://f1000research.com/), [Hindawi](https://www.hindawi.com/), [Cogent OA](https://www.cogentoa.com/), [Open Library of Humanities](https://olh.openlibhums.org/), [BioMed Central](https://www.biomedcentral.com/journals), [eLIFE](https://elifesciences.org/), [Frontiers](https://www.frontiersin.org/), [PLOS](https://www.plos.org/). 
+    * [MDPI](http://www.mdpi.com/), [F1000](https://f1000research.com/), [Hindawi](https://www.hindawi.com/), [Cogent OA](https://www.cogentoa.com/), [Open Library of Humanities](https://olh.openlibhums.org/), [BioMed Central](https://www.biomedcentral.com/journals), [eLIFE](https://elifesciences.org/), [Frontiers](https://www.frontiersin.org/), [PLOS](https://www.plos.org/).
 
 * [Open Knowledge Maps](https://openknowledgemaps.org/).
 
@@ -87,7 +93,7 @@
     * [Discrete Analysis](http://discreteanalysisjournal.com/).
 
     * [biOverlay](https://www.bioverlay.org/post/welcome/).
-    
+
 * The [Open Science Knowledge Base](https://how-to-open.science/).
 
 * [Open Access: Background and Tools for Early Career Researchers in Social Sciences](https://github.com/jolyphil/oa-workshop).
@@ -197,7 +203,7 @@
 
 * [Knowledge Unlatched](http://www.knowledgeunlatched.org/).
 
-* [Compact on Open-Access Publishing Equity](http://www.oacompact.org/). 
+* [Compact on Open-Access Publishing Equity](http://www.oacompact.org/).
 
 * [Quality Open Access Market](https://www.qoam.eu/).
 
@@ -220,23 +226,23 @@
 * [HRCAK](https://hrcak.srce.hr/?lang=en) Repository of the Croatian OA journals.
 
 * [COPE preprints discussion document](https://publicationethics.org/files/COPE_DD_A4_Preprints_Mar18_AW.pdf).
-   
+
    2. Design learner activities with clear instructions
     - Task 1: Find a way to make all of your research papers legally freely available
-    - Task 2: 
+    - Task 2:
     - Quiz:  
 
    3. Find resources (video, illustrations, screencasts, podcasts, assignments, quizzes, presentations)
-    - 
-   
+    -
+
    4. Write concise, engaging video (and audio) scripts
-    - 
-   
+    -
+
    5. Review all learning resources, adjusting as needed
-    - 
-   
+    -
+
    6. Finalise all scripts
-    - 
-   
+    -
+
    7. Copyright strategy
-    - 
+    -
