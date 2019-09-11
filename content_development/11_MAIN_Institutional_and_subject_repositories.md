@@ -58,7 +58,7 @@ Depending on your job role, finding a suitable repository to use could be simple
 
 When veering outside the institutional repository solutions available it can, at times, be difficult to identify suitable repository options. In these instances it is worth consulting the [Directory of Open Access Repositories (OpenDOAR)](http://v2.sherpa.ac.uk/opendoar/). OpenDOAR is a quality-assured global directory of Open Access repositories. It enables users to identify, browse and search for repositories. For example, while subject might be important, you may also be more interested on the range of features available from the repository, the types of materials that tend to be deposited there or perhaps location.
 
-### Manuscript types: what, why & how?###
+### Manuscript types: what, why & how? ###
 
 The haphazard evolution of OA since the early 2000s - and the divergent conventions which have emerged during this time - is such that the terminology and jargon surrounding manuscript types can be confusing to newcomers. 
 
