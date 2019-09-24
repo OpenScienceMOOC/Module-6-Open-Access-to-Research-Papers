@@ -19,7 +19,7 @@ George, stuff goes here ;)
 There are a number of different types (or flavour) of Open Access repository and, depending on your occupation, it is necessary to be aware of the different options available. Some of the most common include types of repository include:
 
 * **Institutional repositories (IR):** These are repositories that have been established by an institution, typically a university or other higher education institution. Their purpose is to provide Green OA repository services for their local academic community. Such repositories are among the most common type and support universities in the Open Access dissemination of their institutional research output. Examples of IRs include [ZORA](https://www.zora.uzh.ch/), the University of Zurich's repository or [ScholarBank@NUS](https://scholarbank.nus.edu.sg/), based at the National University of Singapore (NUS).
- 
+
 * **Subject- or disciplinary repositories:** These are repositories which coalesce around a specific discipline (instead of an institution) and which are typically maintained by a community of practice. In particular disciplines the use of such repositories can be highly favoured because they are of such scale within their subject area that they are the best way of communicating research. Examples of subject- or disciplinary repositories include the [arXiv EPrints Archive](https://arxiv.org/), a repository based on mathematical sciences such as physics, computer science, quantitative biology and mathematics. Or [Earth-Prints](https://www.earth-prints.org/), specicialising on open content from the fields of atmospheric, cryospheric, hydrospheric and solid earth science. 
 
 * **Preprint repositories:** Preprint repositories are platforms for exposing and sharing academic papers (or other academic works) **prior to formal peer-review**. This enables the rapid sharing of research results thereby obviating any lenthy peer-review to publication timelines. Examples of preprint repositories include [bioRxiv](https://www.biorxiv.org/), focussing on the biological sciences, and [SportRχiv](http://sportrxiv.org/) specializing in preprints within the sport, exercise, performance, and health research areas. 
@@ -44,6 +44,7 @@ As instruments open science, the benefits of repositories are their ability to s
 	
 	Repository systems are also central to new in-browser Open Access tools such as Unpaywall, CORE Discovery and the Open Access Button, allowing users to discover openly available research papers whenever they encounter a paywall.
 	
+
 ![Indicative discovery potential of open repositories](images/repository-diagram-MOOC.jpg?raw=true)
 
 * **Digital preservation and persistence:** Repositories are generally managed by libraries or affiliated communities and have a commitment to ensuring long-term access to content deposited in the repository. This includes ensuring deposits are digitally preserved and maintained over time, thereby ensuring persistence in content access over time. This concept of persistence is highly important for ensuring the verifiability of the scholarly record as scholarly publications become entirely digital.
@@ -75,15 +76,27 @@ In discussions surrounding Green OA it is generally acknowledged that the post-p
 
 ### SHERPA/RoMEO ###
 
-Knowing which version(s) of the manuscript you are permitted to deposit in a repository is important. In an earlier section [Preprints postprints and VORs](8_MAIN_Preprints_postprints_and_VORs.md) the [SHERPA/RoMEO](sherpa.ac.uk/romeo/) service was introduced briefly. SHERPA/RoMEO is a searchable database of the Green OA policies supported by specific publishers and journals. RoMEO can tell users which manuscript versions can be deposited in repositories and under what conditions.
+Knowing which version(s) of the manuscript you are permitted to deposit in a repository is important. In an earlier section, [Preprints postprints and VORs](8_MAIN_Preprints_postprints_and_VORs.md), the [SHERPA/RoMEO](sherpa.ac.uk/romeo/) service was introduced briefly. SHERPA/RoMEO is a searchable database of the Green OA policies supported by specific publishers and journals. RoMEO can tell users which manuscript versions can be deposited in repositories and under what conditions.
 
-It is important to remember that, as an author who may have submitted a manuscript to a journal publisher or conference organizer, it will normally be necessary to sign a copyright transfer agreement (CTA) with the publisher. This transfer is necessary to enable publication and subsequent reproduction of your paper by that publisher. However, it is not uncommon for the CTA to also restrict what authors are permitted to do with their manuscripts. RoMEO therefore provides intelligence about exceptions to publisher CTAs, which manuscript versions can be deposited and any other conditions.
+It is important to remember that -- as an author who may have submitted a manuscript to a journal publisher or conference organizer -- it will normally be necessary to sign a [copyright transfer agreement](https://en.wikipedia.org/w/index.php?title=Copyright_transfer_agreement&oldid=916302646) (CTA) with the publisher. This transfer is necessary to enable publication and subsequent reproduction of your paper by that publisher. However, it is not uncommon for the CTA to also restrict what authors are permitted to do with their manuscripts. RoMEO therefore provides intelligence about exceptions to publisher CTAs, which manuscript versions can be deposited and any other relevant conditions.
 
-As a general open science rule, retaining rights is paramount
+The figure below (a screen snippet from RoMEO) sets out the typical intelligence that is provided by RoMEO. The [live page can be accessed on RoMEO](http://sherpa.ac.uk/romeo/issn/1556-4673/) directly. A simple 'tick' and 'cross' approach highlights the basic rights available to the user/author. For example, in the example below for the [Journal on Computing and Cultural Heritage](http://sherpa.ac.uk/romeo/issn/1556-4673/) we can note that the author can:
+
+* Deposit ('archive') his/her pre-print in a repository.
+
+* Deposit their accepted author manuscript ('post-print'), but;
+
+* Cannot deposit the version of record.
+
+Additionally, the entry for this journal in RoMEO stipulates some additional requirements. These are set out in the 'general conditions' section and include such things as, 'Must link to publisher version', and the inclusion of a 'set statement' on the repository or the manuscript itself.
+
+RoMEO therefore provides a useful tool in quickly determining what publishers have to deposit their work in a repository.
 
 ![SHERPA/RoMEO user interface](images/sherparomeoscreen.png?raw=true)
 
 
+
+As a general open science rule, retaining author rights is paramount. By retaining rights scholars can ensure optimum value is 
 
 ### Section on preparing manuscript for deposit ###
 
