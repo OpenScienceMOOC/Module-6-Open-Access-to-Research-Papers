@@ -32,6 +32,7 @@ like Gulf States the authors get paid when publish a paper in a journal."
 
 ### Australia and Pacfic
 
+https://jpma.org.pk/article-details/9322?article_id=9322 
 
 ### Europe
 

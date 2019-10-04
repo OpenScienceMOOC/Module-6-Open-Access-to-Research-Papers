@@ -6,23 +6,25 @@ output:
 
 ## What is Open Access <a name="open_access"></a>
 
-**Open Access**: Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content. (BOAI, [source](http://www.righttoresearch.org/resources/OpenResearchGlossary/#core))
+**Open Access**: Making peer reviewed scholarly manuscripts freely available via the Internet, permitting any user to read, download, copy, distribute, print, search, or link to the full text of these articles, crawl them for indexing, pass them as data to software, or use them for any lawful purpose, without financial, legal or technical barriers other than those inseparable from gaining access to the internet itself. The only constraint on reproduction and distribution, and the only role for copyright in this domain, should be to give authors control over the integrity of their work and the right to be properly acknowledged and cited. May also refer to theses, books, book chapters, monographs and other content. (Budapest Open Access Initiative, [source](http://www.righttoresearch.org/resources/OpenResearchGlossary/#core)).
+
+Or: Making scholarly research articles free to read and re-ue without restriction. If you want a definition that is slightly easier to remember.
 
 ### I learned about it in Open Access, a history
 
 As always, we like to start these modules off by giving a nice history lesson to help provide additional context to how we arrived at the present state.
 
-So, the history of Open Access (OA) actually goes back a long time before OA was even really a thing. OA is based around ideals and principles around sharing, and these existed long before the term "Open Access" was coined. For example, computer scientists and software developers have been freely archiving and sharing their code since the 1970s. Physicists have been sharing their articles and data since the early 1990s on a platform called "arXiv" (pronounced ar-chi-ve). These ideas are rooted in that of the "[Commons](https://en.wikipedia.org/wiki/Commons)" - that all resources be made accessible to all members of society.
+So, the history of Open Access (OA) actually goes back a long time before OA was even really a thing. OA is based around ideals and principles around sharing, and these existed long before the term "Open Access" was coined. For example, computer scientists and software developers have been freely archiving and sharing their code since the 1970s. Physicists have been sharing their articles and data since the early 1990s on a platform called "arXiv" (pronounced ar-chi-ve). These ideas are rooted in that of the "[Commons](https://en.wikipedia.org/wiki/Commons)" - that all resources should be made accessible to all members of society.
 
-The OA movement was/is primarily motivated by the social inequalities created by restricting access to scholarly research. This model tends to favor large and wealthy institutions with the financial means to purchase access to many journals. However, it was also catalysed by the economic challenges and perceived unsustainability of the wider academic publishing industry.
+The OA movement was/is primarily motivated by the social inequalities created by restricting access to scholarly research. This model tends to favor large and wealthy institutions with the financial means to purchase access to many research journals. However, it was also catalysed by the economic challenges and perceived unsustainability of the wider academic publishing industry. More on this later on!
 
-Public statements in support of some form of free or equal access to research go back as far as [1964](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA). The Declaration of Helsinki stated that participants in medical studies "are entitled to be informed about the outcome of the study and to share any benefits that result from it." 
+Public statements in support of some form of free or equal access to research go back as far as [1964](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA). Here, the Declaration of Helsinki stated that participants in medical studies "are entitled to be informed about the outcome of the study and to share any benefits that result from it." 
 
 Following this, it took almost 3 decades for the concept to gain any real traction. A study by [Laakso et al., 2011](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Laakso%20et%20al.%2C%202011.PDF) showed that there was a period of very rapid growth of OA publishing between 1993–2009. Since the year 2000, the average annual growth rate was 18% for the number of journals and 30% for the number of articles; much faster than the overall relative rates of growth in all scholarly journals.
 
 [INSERT LAAKSO RATE OF GroWTH IMAGE]
 
-The term "Open Access" itself was first formulated in three public statements made in the 2000s, considered to be pivotal moments in the history of OA. These are the:
+The term "Open Access" itself was first formulated in three public statements made in the 2000s, now considered to be pivotal moments in the history of OA. These are the:
 
 * [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/) in February 2002, launched by the Open Society Institute. 
 
