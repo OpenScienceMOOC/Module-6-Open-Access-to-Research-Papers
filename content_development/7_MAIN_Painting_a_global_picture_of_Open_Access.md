@@ -71,3 +71,6 @@ For example:
 * SPARC have a [database](http://researchsharing.sparcopen.org/) that documents U.S. federal funder requirements for sharing of research articles and data.
 
 * The [ROARMAP](https://roarmap.eprints.org/) database charting the international growth of OA policies and mandates.
+
+
+- https://www.universityworldnews.com/post.php?story=20191001143012482 add this in 
