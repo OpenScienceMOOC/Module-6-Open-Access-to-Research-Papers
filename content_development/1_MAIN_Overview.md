@@ -1,15 +1,15 @@
 ---
-title: "Overview.md"
+title: "Overview"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 [INSERT INTRODUCTION VIDEO HERE]
 
-This is **Module 6** of the [**Open Science MOOC**](https://eliademy.com/opensciencemooc). This course is totally **SELF-PACED**, meaning it can be completed whenever you want and in your own time.
+Welcome to **Module 6** of the [**Open Science MOOC**](https://eliademy.com/opensciencemooc). This course is totally **SELF-PACED**, meaning it can be completed whenever you want and in your own time.
 
-**Rationale:** Making scholarly research outputs openly available is easy, legal, and has demonstrable benefits to authors, making it a good beginning step for a researcher just beginning to explore the open world. There is a set of knowledge required to navigate the Open Access landscape, involving copyright, article status, repositories, and economics. This module will introduce key concepts and tools that can help a researcher make their work openly available and maximize the benefits to themselves and others.
+**Rationale:** Making scholarly research articles openly available is easy, legal, and has demonstrable benefits to authors. This makes it a good beginning step for a researcher just beginning to explore the open world. There is a set of knowledge required to navigate the Open Access landscape, involving copyright, article status, repositories, and economics. This module will introduce key concepts and tools that can help a researcher make their work openly available and maximize the benefits to themselves and others.
 
 **Learning outcomes**
 
@@ -31,7 +31,7 @@ Resources: [Open Access to Research Papers](https://opensciencemooc.eu/resources
 
 There are X tasks that are X as part of this module:
 
-1. 
+1. A literature search using Open Knowledge Maps
 2. 
 
 [Discuss obligations for quizzes and tasks]
@@ -46,5 +46,5 @@ There are X tasks that are X as part of this module:
 
 **Other live modules:**
 
-[Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
-[Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html)
+* [Module 1: Open Principles](https://eliademy.com/catalog/oer/module-1-open-principles.html)
+* [Module 5: Open Research Software and Open Source](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html)
