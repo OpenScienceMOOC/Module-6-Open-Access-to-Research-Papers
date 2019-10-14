@@ -96,7 +96,11 @@ RoMEO therefore provides a useful tool in quickly determining what publishers ha
 
 
 
-As a general open science rule, retaining author rights is paramount. By retaining rights scholars can ensure optimum value is 
+As a general open science rule, retaining author rights is preferable. By retaining rights scholars can ensure optimum value is generated from their work. Retaining rights also simplifies deposit of manuscripts in repositories since the author is the exclusive rights owner and can choose to share, re-use or re-publish the work as they see fit.
+
+It is not always possible, or may be difficult, to retain rights when scholars are a component within a larger scholarly publishing industry. This is why RoMEO has been created: to simplify authors' understanding of what is permissible. However, many publishers are receptive to bespoke agreements with authors thereby enabling the retention of rights. For example, the [SPARC Author Addendum](https://sparcopen.org/our-work/author-rights/brochure-html/) provides a legal instrument that modifies a publisher's CTA so that the author can retain rights to the work. The Instrument was devised by SPARC in cooperation with [Creative Commons](https://creativecommons.org/) and [Science Commons](https://creativecommons.org/about/program-areas/open-science/). The Author Addendum is a free resource and can be used by any author wishing to retain rights during the publishing process.
+
+There are also alternative initiatives, such as the [UK Scholarly Communications Licence](https://ukscl.ac.uk/), which seeks to ensure that the works of all UK researchers are retained and licensed under a [Creative Commons Attribution Noncommercial license](https://creativecommons.org/licenses/by-nc/4.0/) automatically. This initiative was, in turn, inspired by other similar initiatives elsewhere, such as the [Harvard Addendum](https://osc.hul.harvard.edu/authors/amend/). These initiatives ultimately seek to streamline the legal process arising from the use of CTA addendums thereby making it less onerous for the author. 
 
 ### Section on preparing manuscript for deposit ###
 
