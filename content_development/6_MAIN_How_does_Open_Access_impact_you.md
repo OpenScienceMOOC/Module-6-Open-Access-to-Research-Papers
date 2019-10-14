@@ -48,3 +48,4 @@ There is also the fact that often, publishing OA does cost money. We discuss thi
 
 If you want to find out more about this, there is actually a fun side to Open Access! Check out the [Publishing Trap](https://copyrightliteracy.org/resources/the-publishing-trap/) board game from the UK Copyright Literacy team.
 
+### Further reading
