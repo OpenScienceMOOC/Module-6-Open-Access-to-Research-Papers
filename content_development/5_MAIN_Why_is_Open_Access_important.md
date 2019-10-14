@@ -6,7 +6,7 @@ output:
 
 ## Why is Open Access important <a name="important"></a>
 
-OK, so now you're probably wondering why we just taught you about a fascinating colour scheme that people have made for research articles. Why should you care, or why is any of this important to you?
+OK, so now you're probably wondering why we just taught you about a fascinating colour scheme that people have made for research articles. Why should you care, or why is any of this important to you, or for anyone for that matter?
 
 Imagine someone in your family falls ill with a particular disease. You want to learn more about it, so you can understand it more. So, you turn to the scientific record. However, every research article which you want to read, which might offer you some comfort or understanding, is inaccessible. Time and time again, you encounter the paywall. Before even getting to look inside the article to see if it is useful, you are faced with a $35-40 price tag. 
 
