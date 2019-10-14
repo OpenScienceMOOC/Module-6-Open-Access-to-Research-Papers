@@ -40,7 +40,9 @@ Nicely, some good work has been done on this already. In [2018, Gareth Johnson](
 
 > Notably, while participants represented an array of potential mechanistic, policy or legal blocks, it was the academic community’s knowledge of and attitudes towards OA that were shown to present the greatest obstacles. Despite the endeavours of OA practitioners who were devoted to advocacy, the majority of scholars’ understanding or embrace of openness within research dissemination practice was found to be ‘patchy’, ‘ill-informed’ or ‘confused’.
 
-There is also the fact that often, publishing OA does cost money. We discuss this in detail a lot in SECTION XXXX, and a lot of free alternative routes. However, the reality is often that if you want to publish OA in a specific journal, there will be charges associated with that. Therefore, it is up to you and your co-authors to be aware of potential funding sources that might be available to you. As well as the options for parallel 'green OA' or self-archiving that the journals permit.
+Hm. Well, if only there was some sort of peer-to-peer learning community to help overcome that. Like this MOOC! You are part of the process to help close the knowledge/attitudes and behaviour gap in the world of Open Access.
+
+There is also the fact that often, publishing OA does cost money. We discuss this in detail a lot in SECTION XXXX, and describe a lot of free alternative routes. However, the reality is often that if you want to publish OA in a specific journal, there will be charges associated with that. It is not secret that a lot of the 'top journals' in some disciplines charge a lot of money for OA publication. Therefore, it is up to you and your co-authors to be aware of potential funding sources that might be available to you. As well as the options for parallel 'green OA' or self-archiving that the journals permit.
 
 ### Further reading 
 
