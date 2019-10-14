@@ -1,7 +1,7 @@
 ---
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 ## Introduction <a name="introduction"></a>
@@ -20,7 +20,7 @@ Welcome to Module 6 of the Open Science MOOC and Open Access to Research Papers!
 
 However, in spite of this clear importance, most scholarly research that has ever been produced does not fulfil this basic criterion. In fact, the vast majority of scientific knowledge that we have all produced as a global society remains locked away behind expensive paywalls - something often called 'toll access' or 'closed access'. This is not right.
 
-*Side note:** If you're into movies, do make sure to check out *[Paywall: The Business of Scholarship](https://paywallthemovie.com/)* :wink:
+*Side note:* If you're into movies, do make sure to check out *[Paywall: The Business of Scholarship](https://paywallthemovie.com/)*
 
 A [study in 2018 by Heather Piwowar and colleagues](https://peerj.com/articles/4375/) showed that while there is a growing trend towards more research being freely available, around 75% of all published scholarly research is **not** publicly available. Open Access was the counter-movement towards solving this global problem.
 

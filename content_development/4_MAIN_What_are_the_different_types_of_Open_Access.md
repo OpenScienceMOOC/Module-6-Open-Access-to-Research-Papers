@@ -6,19 +6,19 @@ output:
 
 ## What are the different types of Open Access <a name="types"></a>
 
-Different 'types' of Open Access  are currently commonly described using a simple colour system. The most commonly recognised are "green" and "gold" OA, among a number of others terms that are also used for additional models, each with a specific [definition](http://www.righttoresearch.org/resources/OpenResearchGlossary/).
+Different 'types' of Open Access  are currently commonly described using a simple colour system. The most commonly recognised are "green" and "gold" OA, among a number of others terms that are also used for additional models, each with a specific [definition](http://www.righttoresearch.org/resources/OpenResearchGlossary/). Here, we provide the widely accepted definitions. Please note that there are some actors out there who provide deliberately misleading definitions of these terms. We will mention this below where needed.
 
 **Gold OA**
-The publisher makes all articles and related content available for free immediately on the journal's website. In such publications, articles are licensed for sharing and reuse via Creative Commons licenses or equivalents. The difference between *Gold* and *Diamond/Platinum* (see below) is that usually, Gold OA comes with author- or institution-facing per-article fees, the APCs (article processing charges).
+The publisher makes all articles and related content available for free immediately on the journal's website. In such publications, articles are licensed for sharing and reuse via Creative Commons licenses or equivalents. The difference between *Gold* and *Diamond/Platinum* (see below) is that usually, Gold OA some times comes with author- or institution-facing per-article fees, the APCs (article processing charges). Note that Gold OA is *not* synonymous with an APC-model, which is an often used conflation by commercial publishers, for obvious reasons.
 
 **Green OA**
-Also commonly called "self-archiving". After peer review through a traditional journal, the author posts the accepted manuscript to a website, such as an institutional or subject-based repository.
+Also commonly called "self-archiving". After peer review through a traditional journal, the author posts the accepted manuscript to a website, such as an institutional or subject-based repository. Some times a publisher imposes an embargo period on such self-archiving, despite their being little-no evidence to do so and this being in direct conflict with the needs of any other stakeholder group in this space. Note too that Green OA is *not* synonymous with embargo periods, again, as some commercial publishers will attempt to deceive you with.
 
 **Bronze OA**
 Delayed OA journals publish articles initially as subscription-only, then release them as OA after an embargo period (varying from months to years). Bronze OA articles can also have unclear licensing agreements that hamper their re-use.
 
 **Diamond/platinum OA**
-Journals which publish OA without charging authors article processing charges (APCs) are known as platinum or diamond. Since they do not charge either readers or authors, such publishers often require funding from external sources such as academic institutions, learned societies, or government grants.
+Journals which publish OA without charging authors article processing charges (APCs) are often known as platinum or diamond. Since they do not charge either readers or authors, such publishers often require funding from external sources such as academic institutions, learned societies, or government grants. Some consider this ti simply be another form of Gold OA.
 
 > Fun fact: 71% of the 11,001 journals listed in the Directory for Open Access Journals (DOAJ) do not charge APCs (via [Heather Morrison](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/)).
 
@@ -28,7 +28,7 @@ The growth of what is sometimes referred to as "digital piracy" through large-sc
 [INSERT sci_hub_downloads from Till et al 2019]
 
 **Hybrid OA**
-Hybrid OA journals are those that contain a mixture of OA articles and subscription articles. The journal remains funded by subscriptions, with individual articles being made OA through a publication fee. Hybrid OA has been steadily growing since around 2007 ([(Laakso and Bjoerk, 2016)](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Laakso%20and%20Bjork%2C%202016.pdf)), but due to its unsustainability is now becoming widely prohibited by research funders.
+Hybrid OA journals are those that contain a mixture of OA articles and subscription articles. The journal remains funded by subscriptions, with individual articles being made OA through a publication fee. Hybrid OA has been steadily growing since around 2007 ([(Laakso and Björk, 2016)](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Laakso%20and%20Bjork%2C%202016.pdf)), but due to its unsustainability is now becoming widely prohibited by research funders.
 
 As well as the colours, there are also two other generic types of OA that are based on licensing and copyright terms:
 
