@@ -6,11 +6,13 @@ output:
 
 ## Painting a global picture of Open Access <a name="global"></a>
 
-Open Access is everywhere, in virtually every country around the world. Even [UNESCO](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf) have an Open Access policy, quoting:
+Open Access is everywhere, in virtually every country around the world. Pretty much anywhere there is a system of education and research, really. Even [UNESCO](http://www.unesco.org/new/fileadmin/MULTIMEDIA/HQ/ERI/pdf/oa_policy_rev2.pdf) have an Open Access policy, quoting:
 
-> Equal access to science is not only a social and ethical requirement for human development, but also essential for realizing the full potential of scientific communities worldwide and for orienting scientific progress towards meeting the needs of humankind.” (The World Conference on Science, 1999, held under the auspices of UNESCO and ICSU)
+> Equal access to science is not only a social and ethical requirement for human development, but also essential for realizing the full potential of scientific communities worldwide and for orienting scientific progress towards meeting the needs of humankind.” (The World Conference on Science, 1999, held under the auspices of UNESCO and ICSU).
 
-The global landscape is incredibly complex and heterogeneous. Here, we will show some examples to help illustrate the current state around the world.
+It is worth pausing here and considering what this means in the context of the present system. Subscriptions and APCs create an unequal playing field, which, by UNESCO standards, is unethical, and compromises human and social development. This is why embedding principles of equity and inclusion with any sense of 'open', be it access, data, or science, is so critical.
+
+The global OA landscape is incredibly complex and heterogeneous. Different social standards, industrial histories, and even the influence of wars and periods of colonisation have all impacted upon the scholarly knowledge production system in one way or another. Here, we will show some examples to help illustrate the current state around the world.
 
 [insert continental_OA figure from Chilwa and Sife]
 
@@ -21,6 +23,8 @@ In Africa, more than 1 million OA articles are currently available in repositori
 African Journals OnLine (AJOL) is the world's largest and preeminent collection of peer-reviewed, African-published scholarly journals. 215 journals out of 521 hosted at AJOL are open access with 75,938 full text articles for download ([Kuchma, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Kuchma%2C%202018.pdf)).
 
 National initiatives include the [Algerian Scientific Journal Platform](https://www.asjp.cerist.dz/) (ASJP), an electronic publishing platform for Algerian scientific journals developed and managed by the [Research Centre on Scientific and Technical Information](http://cerist.dz/index.php/en/) (CERIST).
+
+NOTE: Ask Jo to do more here
 
 ### Asia
 
@@ -34,6 +38,8 @@ like Gulf States the authors get paid when publish a paper in a journal."
 
 https://jpma.org.pk/article-details/9322?article_id=9322 
 
+Note: Ask Coops?
+
 ### Europe
 
 
@@ -42,6 +48,8 @@ https://jpma.org.pk/article-details/9322?article_id=9322
 The last 20 years have seen a number of successful initiatives launched in Latin America. This includes the [Latin American Council of Social Sciences](https://www.clacso.org/) (CLASCO), which publishes 'diamond OA' journals, supports repositories, and helps develop OA policies at the institutional and national levels. CLASCO collaborates with the [Scientific Electronic Library Online](https://scielo.org/en) (SciELO), a successful cooperative decentralized platform for electronic publishing of OA scholarly journals.
 
 A recent study by [Lujano and Khalifa, 2018](https://github.com/OpenScienceMOOC/Module-6-Open-Access-to-Research-Papers/blob/master/Reading%20Material_Open%20Access%20to%20Research%20Papers/Lujano%20and%20Khalifa%2C%202018.pdf) found that only 5% of journals in Latin America charge either APCs or submission charges. The vast majority of OA publications are publicly funded, thanks to initiatives like those above. Latin American journals in DOAJ represent 19% of total amount of journals indexed by June 2018.
+
+NOTE: Ask Josmel to add more here
 
 
 ### North America
