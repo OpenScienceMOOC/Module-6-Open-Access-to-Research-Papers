@@ -36,8 +36,10 @@ As well as the colours, there are also two other generic types of OA that are ba
 
 * **Libre OA** - The paper is made available under an open licence, allowing it to be shared and reused, depending on which licence is used.
 
-Or in other words, gratis refers to online access free of charge ("free as in beer"), and libre refers to online access free of charge plus some additional re-use rights ("free as in freedom"). This is similar to the distinction between [Free Software and Open Source](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html).
+Or in other words, gratis refers to online access free of charge ("free as in beer"), and libre refers to online access free of charge plus some additional re-use rights ("free as in sppech"). This is similar to the distinction between [Free Software and Open Source](https://eliademy.com/catalog/oer/module-5-open-research-software-and-open-source.html).
 
 A useful tool here is [APCDOI](https://github.com/ryregier/APCDOI) built by Ryan Regier. Users enter a list of DOIs (Digital Object Identifiers) and this Python program will determine how many are Gold or Hybrid OA and how much was spent on the article processing charge (APC) for these Gold and Hybrid articles.
 
 Another useful service here is [Unpaywall](http://unpaywall.org/). This is an open database of more than 23 million free scholarly articles, and comes with a handy browser extension that helps you to find freely available versions of paywalled articles. All legally. Similarly to this is the [Open Access Button](https://openaccessbutton.org/) where users can directly request paywalled research articles directly from the authors.
+
+### Further reading
