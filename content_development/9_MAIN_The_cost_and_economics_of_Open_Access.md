@@ -7,11 +7,11 @@ output:
 
 [INSERT VIDEO FROM MIKAEL HERE]
 
-Open Access represents a whole different funding game for scholarly journals. While they were typically supported by subscriptions (and often submission fees), meaning only selected people had access, the advent of OA meant that this revenue stream was lost. This means new ones had to be found.
+Open Access represents a whole different funding game for scholarly journals. While they have typically been supported by subscriptions (and often submission fees), meaning only selected people had access, the advent of OA meant that this primary revenue stream was lost. This means new ones had to be found. What this meant is that OA in some forms has become a business model, based around compensating publishers for lost subscription revenue, than for any actual value of service.
 
-While the most commonly known method here is that of APCs, or "article-processing charges", there are a number of models that can be used to cover journal costs.
+With the advent of OA though, a number of new business models have emerged in order to cover the costs of production. The most commonly known method here is that of APCs, or "article-processing charges", but there are also a number of models that can be used to cover journal costs.
 
-There are many publishers that started up as OA-only publishers (or "born OA" publishers), such as [PLOS](http://plos.org/), [Hindawi](http://hindawi.com/), [Frontiers](http://frontiersin.org/), [MDPI](http://mdpi.com/) and [BioMed Central](https://www.biomedcentral.com/). These big commercial publishers are almost exclusively funded through these APCs.
+There are many publishers that started up as OA-only publishers (or "born OA" publishers), such as [PLOS](http://plos.org/), [Hindawi](http://hindawi.com/), [Frontiers](http://frontiersin.org/), [MDPI](http://mdpi.com/), [PeerJ](http://.peerj.com) and [BioMed Central](https://www.biomedcentral.com/). These big commercial publishers are almost exclusively funded through these APCs, or at least author-facing charges of some sort. Note, the A in APC *does not* again stand for "author", but "article". While often the charges to cover the costs of publishing are via an author, or "author-facing", they rarely come from the actual authors themselves.
 
 But what exactly is an APC? [Peter Suber](https://openaccesseks.mitpress.mit.edu/) defined an APC as “A fee charged by some OA journals when accepting an article for publication, in order to cover the costs of production. It’s one way to cover production costs without charging readers and erecting access barriers. While the bill goes to the author, the fee is usually paid by the author’s funder or employer, not by the author out of pocket.”
 
