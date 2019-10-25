@@ -102,7 +102,21 @@ It is not always possible, or may be difficult, to retain rights when scholars a
 
 There are also alternative initiatives, such as the [UK Scholarly Communications Licence](https://ukscl.ac.uk/), which seeks to ensure that the works of all UK researchers are retained and licensed under a [Creative Commons Attribution Noncommercial license](https://creativecommons.org/licenses/by-nc/4.0/) automatically. This initiative was, in turn, inspired by other similar initiatives elsewhere, such as the [Harvard Addendum](https://osc.hul.harvard.edu/authors/amend/). These initiatives ultimately seek to streamline the legal process arising from the use of CTA addendums thereby making it less onerous for the author. 
 
-### Section on preparing manuscript for deposit ###
+### Preparing a manuscript for deposit in a repository ###
+
+The question of preparing a version of a manuscript for deposit at first appears unnecessary. To a certain extent this is true. Why would such a thing be relevant? For instance, if an author's objective is simply to make their research work open by means of Green OA, then simply depositing a PDF version of the chosen manuscript might suffice. It would provide a 'free to read' version of the research work and would likely also generate visibility through interoperable search tools and generate real-world usage. Such an approach is certainly commendable while also supporting a forward trajectory in the transition to open scholarly communication.
+
+#### Adding value; promoting equity in open knowledge
+
+However, the value of a deposited manuscript can be maximized if additional care is taken prior to its deposit. 'Additional care' in this context entails cognizance of the following considerations: **Digital preservation**, **Accessibility**, and **Text & Data Mining (TDM)**. 
+
+Awareness of some of these considerations can add value to a deposited research paper by ensuring persistence in access to the research over time, by ensuring users with physical disabilities can access the manuscript and its contents easily, and by optimizing the deposited work for TDM, thereby potentially unlocking the types of computational analysis mentioned earlier in this module. In general, the principles surrounding accessibility also support the objectives of digital preservation and TDM.
+
+Digital preservation: 
+
+Accessibility: The way in which documents are structured and formatted can influence their accessibility
+
+TDM: 
 
 Accessibility, TDM, digital preservation, etc. Doesn't need to be difficult -- just follow some basic rules -- enumerate rules.
 
