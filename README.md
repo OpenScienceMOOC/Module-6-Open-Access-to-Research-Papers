@@ -36,6 +36,9 @@ Making scholarly research outputs openly available to everyone is simple, legal,
 - [Code of conduct](CODE_OF_CONDUCT.md)
 - [Key elements](key_elements.md)
 
+## Code of conduct
+
+All modules of the Open Science MOOC are released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## Licenses <a name="Licenses"></a>
 
