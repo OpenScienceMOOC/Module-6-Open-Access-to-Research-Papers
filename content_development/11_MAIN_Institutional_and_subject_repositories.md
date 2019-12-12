@@ -108,19 +108,15 @@ The question of preparing a version of a manuscript for deposit at first appears
 
 #### Adding value; promoting equity in open knowledge
 
-However, the value of a deposited manuscript can be maximized if additional care is taken prior to its deposit. 'Additional care' in this context entails cognizance of the following considerations: **Digital preservation**, **Accessibility**, and **Text & Data Mining (TDM)**. 
+However, the value of a deposited manuscript can be maximized if additional care is taken prior to its deposit. 'Additional care' in this context entails cognizance of the following considerations: 
 
-Awareness of some of these considerations can add value to a deposited research paper by ensuring persistence in access to the research over time, by ensuring users with physical disabilities can access the manuscript and its contents easily, and by optimizing the deposited work for TDM, thereby potentially unlocking the types of computational analysis mentioned earlier in this module. In general, the principles surrounding accessibility also support the objectives of digital preservation and TDM.
+- **Digital preservation**, 
+- **Accessibility**, and 
+- **Text & Data Mining (TDM)**. 
 
-Digital preservation: 
+Awareness of some of these considerations can add value to a deposited research paper by ensuring persistence in access to the research over time, by ensuring users with physical disabilities can access the manuscript and its contents easily, and by optimizing the deposited work for TDM, thereby potentially unlocking the types of computational analysis mentioned earlier in this module. In general, the principles surrounding accessibility also support the objectives of digital preservation and TDM. 
 
-Accessibility: The way in which documents are structured and formatted can influence their accessibility
-
-TDM: 
-
-Accessibility, TDM, digital preservation, etc. Doesn't need to be difficult -- just follow some basic rules -- enumerate rules.
-
-
+The way in which manuscripts are structured and formatted can influence their accessibility to human readers, but also to machines. For example, a manuscript formatted in columns is both more difficult for [screen reader software](https://en.wikipedia.org/w/index.php?title=Screen_reader&oldid=930342036) to interpret and similarly text mining applications to extract. If possible, it is therefore worth considering simplifying the structure of any manuscript prior to repository deposit. Ensuring it is saved as a [PDF/A]([https://www.pdfa.org/pdfa-faq/](PDF/A) ) will also ensure a level of accessibility and preservation support.  [Guidance issued on the GOV.UK website](https://www.gov.uk/guidance/how-to-publish-on-gov-uk/accessible-pdfs) on meeting accessibility standards provides some useful pointers on generating accessible documents. This guidance provides simple rules that can be applied to all documents to ensure an optimum and inclusive audience. In doing so documents can better fulfill the requirements of TDM and digital preservation, thereby ensuring persistent access to research content.
 
 ### Sections on describing research optimally ###
 
